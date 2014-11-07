@@ -74,7 +74,7 @@ main (int argc, char** argv)
 
   Eigen::Vector3f z_axis(normal_point.normal_x,normal_point.normal_y,normal_point.normal_z);
 
-  Eigen::Vector3f y_direction(0,1,0);
+  Eigen::Vector3f y_direction(1,1,1);
 
   Eigen::Affine3f transform_3;
 

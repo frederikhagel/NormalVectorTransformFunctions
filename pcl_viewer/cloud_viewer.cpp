@@ -46,49 +46,8 @@ main (int argc, char** argv)
     pcl::NormalEstimation<pcl::PointXYZRGBA, pcl::Normal> ne;
     ne.setInputCloud (cloud);
 
-    // Create an empty kdtree representation, and pass it to the normal estimation object.
-    // Its content will be filled inside the object, based on the given input dataset (as no other search surface is given).
-    pcl::search::KdTree<pcl::PointXYZRGBA>::Ptr tree (new pcl::search::KdTree<pcl::PointXYZRGBA> ());
-    ne.setSearchMethod (tree);
-
-    // Output datasets
-    pcl::PointCloud<pcl::Normal>::Ptr cloud_normals (new pcl::PointCloud<pcl::Normal>);
-
-    // Use all neighbors in a sphere of radius 3cm
-    ne.setRadiusSearch (0.03);
-
-    std::cout << " starting computation " << std::endl;
-
-    // Compute the features
-    ne.compute (*cloud_normals);
-
-    std::cout << "cloud_normals->points.size (): " << cloud_normals->points.size () << std::endl;
-
-
-    pcl::Normal normal_point = cloud_normals->at(320, 240);
-    pcl::PointXYZRGBA _point = cloud->at(320, 240);
-
-    std::cout << "cloud_normal at point: " << normal_point << std::endl;
-    std::cout << "cloud at point: " << _point << std::endl;
-
-
-  Eigen::Vector3f z_axis(normal_point.normal_x,normal_point.normal_y,normal_point.normal_z);
-
-  Eigen::Vector3f y_direction(1,1,1);
-
-  Eigen::Affine3f transform_3;
-
-  pcl::getTransFromUnitVectorsZY (z_axis, y_direction , transform_3);
-
-  transform_3 (0,3) = 0;
-
-  pcl::PointCloud<pcl::PointXYZRGBA>::Ptr transformed_cloud (new pcl::PointCloud<pcl::PointXYZRGBA>);
-  // You can either apply transform_1 or transform_2; they are the same
-  pcl::transformPointCloud (*cloud, *transformed_cloud, transform_3);
-
-
     //blocks until the cloud is actually rendered
-    viewer.showCloud(transformed_cloud);
+    viewer.showCloud(cloud);
     
     //use the following functions to get access to the underlying more advanced/powerful
     //PCLVisualizer
