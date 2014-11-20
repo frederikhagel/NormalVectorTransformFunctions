@@ -1,4 +1,4 @@
-# Install script for directory: /home/frederik/pcl/pcl_viewer
+# Install script for directory: /home/frederik/pcl/transform_and_view
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ else()
   set(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
 endif()
 
-file(WRITE "/home/frederik/pcl/pcl_viewer/${CMAKE_INSTALL_MANIFEST}" "")
+file(WRITE "/home/frederik/pcl/transform_and_view/${CMAKE_INSTALL_MANIFEST}" "")
 foreach(file ${CMAKE_INSTALL_MANIFEST_FILES})
-  file(APPEND "/home/frederik/pcl/pcl_viewer/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
+  file(APPEND "/home/frederik/pcl/transform_and_view/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
 endforeach()

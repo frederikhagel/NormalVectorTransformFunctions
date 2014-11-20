@@ -43,10 +43,10 @@ RM = /usr/local/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/frederik/pcl/pcl_viewer
+CMAKE_SOURCE_DIR = /home/frederik/pcl/transform_and_view
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/frederik/pcl/pcl_viewer
+CMAKE_BINARY_DIR = /home/frederik/pcl/transform_and_view
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -73,9 +73,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/frederik/pcl/pcl_viewer/CMakeFiles /home/frederik/pcl/pcl_viewer/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/frederik/pcl/transform_and_view/CMakeFiles /home/frederik/pcl/transform_and_view/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/frederik/pcl/pcl_viewer/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/frederik/pcl/transform_and_view/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -103,24 +103,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named cloud_viewer
+# Target rules for targets named transform_and_view
 
 # Build rule for target.
-cloud_viewer: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 cloud_viewer
-.PHONY : cloud_viewer
+transform_and_view: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 transform_and_view
+.PHONY : transform_and_view
 
 # fast build rule for target.
-cloud_viewer/fast:
-	$(MAKE) -f CMakeFiles/cloud_viewer.dir/build.make CMakeFiles/cloud_viewer.dir/build
-.PHONY : cloud_viewer/fast
+transform_and_view/fast:
+	$(MAKE) -f CMakeFiles/transform_and_view.dir/build.make CMakeFiles/transform_and_view.dir/build
+.PHONY : transform_and_view/fast
 
 cloud_viewer.o: cloud_viewer.cpp.o
 .PHONY : cloud_viewer.o
 
 # target to build an object file
 cloud_viewer.cpp.o:
-	$(MAKE) -f CMakeFiles/cloud_viewer.dir/build.make CMakeFiles/cloud_viewer.dir/cloud_viewer.cpp.o
+	$(MAKE) -f CMakeFiles/transform_and_view.dir/build.make CMakeFiles/transform_and_view.dir/cloud_viewer.cpp.o
 .PHONY : cloud_viewer.cpp.o
 
 cloud_viewer.i: cloud_viewer.cpp.i
@@ -128,7 +128,7 @@ cloud_viewer.i: cloud_viewer.cpp.i
 
 # target to preprocess a source file
 cloud_viewer.cpp.i:
-	$(MAKE) -f CMakeFiles/cloud_viewer.dir/build.make CMakeFiles/cloud_viewer.dir/cloud_viewer.cpp.i
+	$(MAKE) -f CMakeFiles/transform_and_view.dir/build.make CMakeFiles/transform_and_view.dir/cloud_viewer.cpp.i
 .PHONY : cloud_viewer.cpp.i
 
 cloud_viewer.s: cloud_viewer.cpp.s
@@ -136,7 +136,7 @@ cloud_viewer.s: cloud_viewer.cpp.s
 
 # target to generate assembly for a file
 cloud_viewer.cpp.s:
-	$(MAKE) -f CMakeFiles/cloud_viewer.dir/build.make CMakeFiles/cloud_viewer.dir/cloud_viewer.cpp.s
+	$(MAKE) -f CMakeFiles/transform_and_view.dir/build.make CMakeFiles/transform_and_view.dir/cloud_viewer.cpp.s
 .PHONY : cloud_viewer.cpp.s
 
 # Help Target
@@ -145,9 +145,9 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... cloud_viewer"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... transform_and_view"
 	@echo "... cloud_viewer.o"
 	@echo "... cloud_viewer.i"
 	@echo "... cloud_viewer.s"
