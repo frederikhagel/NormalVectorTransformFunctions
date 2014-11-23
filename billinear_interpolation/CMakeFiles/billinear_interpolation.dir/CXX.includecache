@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/frederik/pcl/billinear_interpolation/cloud_viewer.cpp
+opencv2/core/core.hpp
+/home/frederik/pcl/billinear_interpolation/opencv2/core/core.hpp
+opencv2/highgui/highgui.hpp
+/home/frederik/pcl/billinear_interpolation/opencv2/highgui/highgui.hpp
+iostream
+-
+
