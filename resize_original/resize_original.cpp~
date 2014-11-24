@@ -1,0 +1,47 @@
+//include cv2
+//#include "opencv2/core/core.hpp"
+//#include "opencv2/highgui/highgui.hpp"
+    
+#include <opencv2/opencv.hpp>
+
+#include <iostream>
+
+int 
+main (int argc, char** argv)
+{
+
+    if( argc != 2)
+    {
+     std::cout <<" Usage: display_image ImageToLoadAndDisplay" << std::endl;
+     return -1;
+    }
+
+    cv::Mat image;
+    image = cv::imread(argv[1]);   // Read the file
+
+    if(! image.data )                              // Check for invalid input
+    {
+        std::cout <<  "Could not open or find the image" << std::endl ;
+        return -1;
+    }
+
+    cv::namedWindow( "Display window", cv::WINDOW_AUTOSIZE );// Create a window for display.
+    cv::imshow( "Display window", image );                   // Show our image inside it.
+
+    cv::waitKey(0);                                          // Wait for a keystroke in the window
+
+    cv::Mat resized_image; 
+    resized_image = cv::Mat(480, 640, CV_8UC3); 
+
+    cv::resize(image, resized_image, 0, 0.48, 0.48, 0); //resized_image.size()
+
+    cv::namedWindow( "resized image window", cv::WINDOW_AUTOSIZE );// Create a window for display.
+    cv::imshow( "resized image window", resized_image );    
+
+    cv::waitKey(0);  
+
+    std::cout << " saving resized image " << std::endl;
+    cv::imwrite( "test_image_rezise.png", resized_image );	
+
+    return 0;
+}
