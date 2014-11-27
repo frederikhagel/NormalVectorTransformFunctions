@@ -220,10 +220,10 @@ main (int argc, char** argv)
 
 			test_cloud.at<float>(y_pos,x_pos) = point.z;
 			}
-			else
+			/*else
 			{
 			std::cout << "depth " << point.z << " former depth" << test_cloud.at<float>(y_pos,x_pos) << std::endl;
-			}
+			}*/
 
 
 		}

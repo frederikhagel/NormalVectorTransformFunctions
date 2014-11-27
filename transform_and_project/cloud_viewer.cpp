@@ -203,7 +203,7 @@ main (int argc, char** argv)
 
 	        Eigen::Vector3i rgb = point.getRGBVector3i();
 
-		int x_pos = 320 +  point.x/point.z * 480;
+		int x_pos = 320 -  point.x/point.z * 480;
 		int y_pos = 240 +  point.y/point.z * 480;
 
 		//std::cout << "x pos" << x_pos << "y pos" << y_pos << std::endl;
