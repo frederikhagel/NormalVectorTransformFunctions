@@ -14,16 +14,18 @@ def mkKernel(ks, sig, th , lm, ps, gm):
             exit(1)
 
         """ Definition of the varibles"""
-        theta = th * np.pi/180.
-        psi = ps * np.pi/180.
-        sigma = np.float(sig)/ks
+        theta = th 
+        psi = ps 
+        sigma = np.float(sig)
         lmbd = np.float(lm)
-        gamma = gm/10.0
+        gamma = gm
         
         """Creating the kernel size"""        
         xs=np.linspace(-1*ks/10.,1*ks/10.,ks)
         ys=np.linspace(-1*ks/10.,1*ks/10.,ks)
-        
+#        xs=np.linspace(-1*ks,1*ks,ks)
+#        ys=np.linspace(-1*ks,1*ks,ks)
+
         """Creating the kernel"""        
         x,y = np.meshgrid(xs,ys)        
 
@@ -32,9 +34,11 @@ def mkKernel(ks, sig, th , lm, ps, gm):
         y_theta = -x*np.sin(theta)+y*np.cos(theta)
  
         #return np.array( np.exp(-0.5*(x_theta**2+gamma * y_theta**2)/sigma**2)*np.cos(2.*np.pi*x_theta/lmbd + psi),dtype=np.float32)
-                  
+        gabor_kernel =  np.array( np.exp(-(x_theta**2 + y_theta**2)/(2*sigma**2) )*np.cos(2.*np.pi*x_theta/lmbd + psi), dtype=np.float32)
+        gabor_kernel = cv2.resize(gabor_kernel, dsize = (11,11) )        
+        return gabor_kernel
         """  Return the kernel                  The sigma signal                                           The sinus wave                                   """
-        return np.array( (1/(sigma))*np.exp(-0.5*(x_theta**2+gamma * y_theta**2)/(sigma)**2)*np.cos(2.*np.pi*x_theta/lmbd + psi),dtype=np.float32)
+        return np.array( (1/(sigma))*np.exp(-0.5*(x_theta**2+gamma * y_theta**2)/(sigma)**2)*np.cos(2.*np.pi*x_theta/lmbd + psi), dtype=np.float32)
 	#  - np.exp( sigma / 2)
 
 
@@ -43,21 +47,26 @@ def mkKernelI(ks, sig, th , lm, ps, gm):
             exit(1)
 
         """ Definition of the varibles"""
-        gamma = gm/10.0
-        theta = th * np.pi/180.
-        psi = ps * np.pi/180.
-        sigma = np.float(sig)/ks        
+        gamma = gm
+#        theta = th * np.pi/180.
+        theta = th
+        psi = ps
+        sigma = np.float(sig)        
         lmbd = np.float(lm)
         
         """Creating the kernel size""" 
-        xs=np.linspace(-1*ks/10.,1*ks/10.,ks)
-        ys=np.linspace(-1*ks/10.,1*ks/10.,ks)
+#        xs=np.linspace(-1*ks/10.,1*ks/10.,ks)
+#        ys=np.linspace(-1*ks/10.,1*ks/10.,ks)
+        xs=np.linspace(-1*ks,1*ks,ks)
+        ys=np.linspace(-1*ks,1*ks,ks)
         """Creating the kernel""" 
         x,y = np.meshgrid(xs,ys)
 
         """ Angle of the signal """
         x_theta = x*np.cos(theta)+y*np.sin(theta)
         y_theta = -x*np.sin(theta)+y*np.cos(theta)
+
+        return np.array( np.exp(-(x_theta**2 + y_theta**2)/(2*sigma**2) ) * np.sin(2.*np.pi*x_theta/lmbd + psi), dtype=np.float32)
 
         """  Return the kernel                  The sigma signal                                           The sinus wave                                   """      
         return np.array( (1/(sigma))*np.exp(-0.5*(x_theta**2+gamma * y_theta**2)/(sigma)**2) * np.sin(2.*np.pi*x_theta/lmbd + psi),dtype=np.float32)

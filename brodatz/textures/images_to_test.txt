@@ -1,0 +1,2 @@
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg
