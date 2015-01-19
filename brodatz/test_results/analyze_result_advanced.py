@@ -10,7 +10,6 @@ import numpy as np
 result_file = 'new.txt'
 
 
-
 for correction in [1, 2]:
     f = open(result_file, 'r')
     

@@ -7,8 +7,8 @@ Created on Thu Dec 11 12:27:31 2014
 
 import numpy as np
 
-result_file = 'new.txt'
-
+result_file = '../new_part_1.txt'
+result_file = '../new_results.txt'
 
         
 import matplotlib.pyplot as plt
@@ -27,8 +27,8 @@ for correction in [1, 2]:
     
     result_to_rot = {'0.0':0, '0.1745':0, 
        '0.3491':0, '0.5236':0, 
-        '0.8727':0, '1.047':0, 
-        '1.222':0}
+        '0.6981':0, '0.8727':0, 
+        '1.047':0, '1.222':0}
     
     result_list = []    
     new = False
@@ -96,7 +96,7 @@ for correction in [1, 2]:
     #        print datalist[0]
             number = datalist[ correction ]#[1:-1]
 #            print actual_index
-            #1.047 and 0.5236
+            #1.047 and 0.5236 and 1.222
             if actual_index == 99 and actual_rotation[1] == '1.222' and correction == 1:
                 histogram_list.append(number)
     #        print number
@@ -127,11 +127,11 @@ for correction in [1, 2]:
 
     result = []    
             
-    for index in [ '0.0', '0.1745', '0.3491', '0.5236', '0.8727', '1.047', '1.222' ]:
+    for index in [ '0.0', '0.1745', '0.3491', '0.5236', '0.6981', '0.8727', '1.047', '1.222' ]:
         print "rotation " + index + "\t" + str(result_to_rot[index]) + "\t" + str(result_to_rot[index]/110.)
         result.append(result_to_rot[index])        
         
-    tmp, = plt.plot([ 0.0, 0.1745, 0.3491, 0.5236, 0.8727, 1.047, 1.222 ], result, label='Line 2')  
+    tmp, = plt.plot([ 0.0, 0.1745, 0.3491, 0.5236, 0.6981, 0.8727, 1.047, 1.222 ], result, label='Line 2')  
 
     
     lines.append(tmp)
@@ -149,13 +149,31 @@ y = []
 color = []
 for index, result in enumerate(histogram_list):
     if index + 1 == 98:
-        color.append(1)
+#        color.append(1)
+        pass
     else:
-        color.append(0)
-    from matplotlib import pyplot as plt
+        color.append((1,1,0))
+#    from matplotlib import pyplot as plt
+        x.append(result)
+        y.append(0)  
+  
 
-    x.append(result)
-    y.append(0)    
+
     
-plt.scatter(x, y, s=500, c=color)
+plt.scatter(x, y, s=400, c=color)
+x = []
+y = []
+color = []
+
+color.append( (1,0,0) )
+x.append(histogram_list[97])
+y.append(0)  
+
+plt.scatter(x, y, s=600, c=color)
+plt.xlim(0,1)
+
+frame = plt.gca()
+
+frame.axes.get_yaxis().set_ticks([])
+plt.xlabel('Squared Distance')
 plt.show()

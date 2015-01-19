@@ -38,21 +38,21 @@ viewerPsycho (pcl::visualization::PCLVisualizer& viewer)
 int 
 main (int argc, char** argv)
 {
-    pcl::PointCloud<pcl::PointXYZRGBA>::Ptr cloud (new pcl::PointCloud<pcl::PointXYZRGBA>);
-    pcl::io::loadPCDFile (argv[1], *cloud);
+    pcl::PointCloud<pcl::PointXYZ> cloud1;
+    pcl::io::loadPCDFile (argv[1], cloud1);
     
     pcl::visualization::CloudViewer viewer("Cloud Viewer");
     
-    pcl::NormalEstimation<pcl::PointXYZRGBA, pcl::Normal> ne;
-    ne.setInputCloud (cloud);
+    pcl::NormalEstimation<pcl::PointXYZ, pcl::Normal> ne;
+    //ne.setInputCloud (cloud);
 
     // Create an empty kdtree representation, and pass it to the normal estimation object.
     // Its content will be filled inside the object, based on the given input dataset (as no other search surface is given).
-    pcl::search::KdTree<pcl::PointXYZRGBA>::Ptr tree (new pcl::search::KdTree<pcl::PointXYZRGBA> ());
+    pcl::search::KdTree<pcl::PointXYZ>::Ptr tree (new pcl::search::KdTree<pcl::PointXYZ> ());
     ne.setSearchMethod (tree);
 
     // Output datasets
-    pcl::PointCloud<pcl::Normal>::Ptr cloud_normals (new pcl::PointCloud<pcl::Normal>);
+    //pcl::PointCloud<pcl::Normal>::Ptr cloud_normals (new pcl::PointCloud<pcl::Normal>);
 
     // Use all neighbors in a sphere of radius 3cm
     ne.setRadiusSearch (0.03);
@@ -60,16 +60,23 @@ main (int argc, char** argv)
     std::cout << " starting computation " << std::endl;
 
     // Compute the features
-    ne.compute (*cloud_normals);
 
+
+    //ne.compute (*cloud_normals);
+/*
     std::cout << "cloud_normals->points.size (): " << cloud_normals->points.size () << std::endl;
 
 
     pcl::Normal normal_point = cloud_normals->at(320, 240);
-    pcl::PointXYZRGBA _point = cloud->at(320, 240);
 
+*/
+pcl::PointXYZ _point = cloud1.at(320, 240);
+/*
     std::cout << "cloud_normal at point: " << normal_point << std::endl;
     std::cout << "z of cloud at point : " << _point.z << std::endl;
+*/
+
+
 
 /*
   Eigen::Vector3f z_axis(normal_point.normal_x,normal_point.normal_y,normal_point.normal_z);
@@ -94,8 +101,26 @@ main (int argc, char** argv)
 
 
 
+  int colIndex = 320;
+  int rowIndex = 240;
 
-  Eigen::Vector3f z_axis(normal_point.normal_x,normal_point.normal_y,normal_point.normal_z);
+  float curvature;
+
+  std::vector<int> indices(colIndex,rowIndex);
+
+  float nx, ny, nz;
+
+  ne.computePointNormal (cloud1, indices, nx, ny, nz, curvature);
+
+  Eigen::Vector3f z_axis(nx, ny , nz);
+
+
+//  Eigen::Vector3f z_axis(normal_point.normal_x,normal_point.normal_y,normal_point.normal_z);
+
+
+  pcl::PointCloud<pcl::PointXYZRGBA>::Ptr cloud (new pcl::PointCloud<pcl::PointXYZRGBA>);
+  pcl::io::loadPCDFile (argv[1], *cloud);
+
 
   Eigen::Vector3f x_axis_standard(1,0,0);
 
@@ -138,7 +163,7 @@ main (int argc, char** argv)
 
   
 
-    _point = transformed_cloud3->at(320, 240);
+    //_point = transformed_cloud3->at(320, 240);
 
     std::cout << "cloud at point: " << _point << std::endl;
 

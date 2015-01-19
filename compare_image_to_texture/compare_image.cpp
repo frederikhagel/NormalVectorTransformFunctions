@@ -85,7 +85,7 @@ main (int argc, char** argv)
     //cv::namedWindow( "result", cv::WINDOW_AUTOSIZE );// Create a window for display.
     //cv::imshow( "result", result );                   // Show our image inside it.
     std::cout << " result " << result.at<float>(0,0) << std::endl;
-    cv::waitKey(6);                                          // Wait for a keystroke in the window
+    cv::waitKey(0);                                          // Wait for a keystroke in the window
 
     if( min_result > result.at<float>(0,0)){
     min_result = result.at<float>(0,0);

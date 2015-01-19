@@ -82,10 +82,15 @@ main (int argc, char** argv)
 
     float nx, ny, nz;
     ne.computePointNormal (cloud, indices, nx, ny, nz, curvature);
+    ne.computePointNormal (cloud, indices, plane_parameters, curvature);
+    ne.computePointNormal (320, 240, normal);
+
     //pcl::computePointNormal (cloud, indices, plane_parameters, curvature);
     //ne.computePointNormal(colIndex, rowIndex, normal); 
     
     std::cout << "cloud_normal at point: " << nx << " , " << ny << " , " << nz << " curvature " << curvature << std::endl;
+    std::cout << "cloud_normal at point: " << plane_parameters << " curvature " << curvature << std::endl;
+    std::cout << "cloud_normal at point: " << normal << " curvature " << curvature << std::endl;
 	/*
     for(int i = 0; i < 639; i += 2)
 	{

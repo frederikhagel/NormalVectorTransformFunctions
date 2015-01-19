@@ -68,9 +68,9 @@ main (int argc, char** argv)
 		//std::cout << "x pos" << x_pos << "y pos" << y_pos << std::endl;
 
 		if( x_pos > 0 and x_pos < 640 and y_pos > 0 and y_pos < 480){	
-			input_cloud.at<cv::Vec3b>(y_pos,x_pos)[0] = rgb[2];
-			input_cloud.at<cv::Vec3b>(y_pos,x_pos)[1] = rgb[1];
-			input_cloud.at<cv::Vec3b>(y_pos,x_pos)[2] = rgb[0];
+            input_cloud.at<cv::Vec3b>(y_pos,640 - x_pos)[0] = rgb[2];
+            input_cloud.at<cv::Vec3b>(y_pos,640 - x_pos)[1] = rgb[1];
+            input_cloud.at<cv::Vec3b>(y_pos,640 - x_pos)[2] = rgb[0];
 
 			}
 
