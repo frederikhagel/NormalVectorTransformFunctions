@@ -8,7 +8,7 @@ Created on Thu Dec 11 12:27:31 2014
 import numpy as np
 
 result_file = '../new_part_1.txt'
-result_file = '../new_results.txt'
+result_file = '../complete_comparison_results_vertical.txt'
 
         
 import matplotlib.pyplot as plt
@@ -97,7 +97,7 @@ for correction in [1, 2]:
             number = datalist[ correction ]#[1:-1]
 #            print actual_index
             #1.047 and 0.5236 and 1.222
-            if actual_index == 99 and actual_rotation[1] == '1.222' and correction == 1:
+            if actual_index == 99 and actual_rotation[1] == '1.222' and correction == 2:
                 histogram_list.append(number)
     #        print number
     #        number = datalist[2][:-2]

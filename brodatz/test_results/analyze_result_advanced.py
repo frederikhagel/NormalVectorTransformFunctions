@@ -7,14 +7,14 @@ Created on Thu Dec 11 12:27:31 2014
 
 import numpy as np
 
-result_file = 'new.txt'
+result_file = '../complete_comparison_results.txt'
 
 
 for correction in [1, 2]:
     f = open(result_file, 'r')
     
     result_to_rot = {'0.0':0, '0.1745':0, 
-       '0.3491':0, '0.5236':0, 
+       '0.3491':0, '0.5236':0, '0.6981':0,
         '0.8727':0, '1.047':0, 
         '1.222':0}
     

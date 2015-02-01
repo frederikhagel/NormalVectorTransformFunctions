@@ -14,15 +14,15 @@ if __name__ == '__main__':
 
 
 #        camera = cv2.VideoCapture(0)
-        input_image = "test_image_rezise.png"
+        input_image = "/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg"
         kernel_psi = 0 # np.pi/2.
         kernel_gamma = 1
    
         large_kernel_list = []
-        for scales in [0,1,2,3] :
+        for scales in [0,1,2,3,4] :
             kernel_list = []
             n = 8.
-            hidden = [0,22.5,45,67.5,90, 90 + 22.5,  90 + 22.5*2, 90 + 22.5*3]
+            hidden = range(0,180,180/8)
             for theta in range(int(n)):        
 #                print theta/12. * 2*np.pi
                 kernel_list.append([ (theta/n) * np.pi, complexKernel(101,2.67, (theta/n) * np.pi , 1/(0.2*np.pi/2), kernel_psi, kernel_gamma) ] )

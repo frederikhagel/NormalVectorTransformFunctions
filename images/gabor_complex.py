@@ -35,7 +35,7 @@ def mkKernel(ks, sig, th , lm, ps, gm):
  
         #return np.array( np.exp(-0.5*(x_theta**2+gamma * y_theta**2)/sigma**2)*np.cos(2.*np.pi*x_theta/lmbd + psi),dtype=np.float32)
         gabor_kernel =  np.array( np.exp(-(x_theta**2 + y_theta**2)/(2*sigma**2) )*np.cos(2.*np.pi*x_theta/lmbd + psi), dtype=np.float32)
-        gabor_kernel = cv2.resize(gabor_kernel, dsize = (11,11) )        
+        gabor_kernel = cv2.resize(gabor_kernel, dsize = (21,21) )        
         return gabor_kernel
         """  Return the kernel                  The sigma signal                                           The sinus wave                                   """
         return np.array( (1/(sigma))*np.exp(-0.5*(x_theta**2+gamma * y_theta**2)/(sigma)**2)*np.cos(2.*np.pi*x_theta/lmbd + psi), dtype=np.float32)
@@ -65,6 +65,10 @@ def mkKernelI(ks, sig, th , lm, ps, gm):
         """ Angle of the signal """
         x_theta = x*np.cos(theta)+y*np.sin(theta)
         y_theta = -x*np.sin(theta)+y*np.cos(theta)
+
+        gabor_kernel =  np.array( np.exp(-(x_theta**2 + y_theta**2)/(2*sigma**2) )*np.sin(2.*np.pi*x_theta/lmbd + psi), dtype=np.float32)
+        gabor_kernel = cv2.resize(gabor_kernel, dsize = (21,21) )        
+        return gabor_kernel
 
         return np.array( np.exp(-(x_theta**2 + y_theta**2)/(2*sigma**2) ) * np.sin(2.*np.pi*x_theta/lmbd + psi), dtype=np.float32)
 

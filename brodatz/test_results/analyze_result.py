@@ -7,7 +7,7 @@ Created on Thu Dec 11 12:27:31 2014
 
 import numpy as np
 
-result_file = 'new.txt'
+result_file = '../complete_comparison_results.txt'
 
 f = open(result_file, 'r')
 

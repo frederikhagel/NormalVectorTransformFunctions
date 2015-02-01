@@ -11,11 +11,30 @@
 
 #include <pcl/point_types.h>
 #include <pcl/features/normal_3d.h>
+#include <pcl/filters/normal_refinement.h>
+#include <pcl/registration/correspondence_rejection.h>
+
+
+
+
+#include <pcl/point_types.h>
+#include <pcl/point_cloud.h>
+#include <pcl/io/pcd_io.h>
+#include <pcl/kdtree/kdtree_flann.h>
+#include <pcl/filters/passthrough.h>
+#include <pcl/filters/voxel_grid.h>
+#include <pcl/features/normal_3d.h>
+#include <pcl/features/fpfh.h>
+#include <pcl/registration/ia_ransac.h>
+
 
 //include cv2
 #include "opencv2/core/core.hpp"
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/opencv.hpp"
+
+
+
 
 int user_data;
     
@@ -94,41 +113,53 @@ main (int argc, char** argv)
     // Output datasets
     pcl::PointCloud<pcl::Normal>::Ptr cloud_normals (new pcl::PointCloud<pcl::Normal>);
 
-    // Use all neighbors in a sphere of radius 3cm
-    ne.setRadiusSearch (0.03);
+    // Use all neighbors in a sphere of radius 4cm formerly 3
+    ne.setRadiusSearch (0.06);
 
     std::cout << " starting computation " << std::endl;
 
     // Compute the features
-    ne.compute (*cloud_normals);
+    //ne.compute (*cloud_normals);
 
-    std::cout << "cloud_normals->points.size (): " << cloud_normals->points.size () << std::endl;
+    //std::cout << "cloud_normals->points.size (): " << cloud_normals->points.size () << std::endl;
 
 
-    pcl::Normal normal_point = cloud_normals->at(320, 240);
+    //pcl::Normal normal_point = cloud_normals->at(320, 240);
     pcl::PointXYZRGBA _point = cloud->at(320, 240);
 
-    std::cout << "cloud_normal at point: " << normal_point << std::endl;
-    std::cout << "z of cloud at point : " << _point.z << std::endl;
+    //std::cout << "cloud_normal at point: " << normal_point << std::endl;
+    //std::cout << "z of cloud at point : " << _point.z << std::endl;
 
     int colIndex = 320;
     int rowIndex = 240;
-    pcl::Normal normal;
+    //pcl::Normal normal;
     Eigen::Vector4f plane_parameters;
     float curvature;
-    std::vector<int> indices(colIndex,rowIndex);
+//    std::vector<int> indices(colIndex,rowIndex);
 
+
+
+
+    //std::vector<std::vector<int> > k_indices;
 
     float nx, ny, nz;
     //ne.computePointNormal (*cloud, indices, nx, ny, nz, curvature);
-    ne.computePointNormal (*cloud, indices, plane_parameters, curvature);
+    //ne.computePointNormal (*cloud, indices, plane_parameters, curvature);
     //ne.computePointNormal (320, 240, normal);
-    pcl::flipNormalTowardsViewpoint ( 	_point, 0, 0, 0, plane_parameters);
+    //pcl::flipNormalTowardsViewpoint ( 	_point, 0, 0, 0, plane_parameters);
+
+
+
+    pcl::Normal normal;
+    for(int i = 0; i < 640; i++){
+    std::vector<int> indices(i,rowIndex);
+    ne.computePointNormal (*cloud, indices, normal.normal_x, normal.normal_y, normal.normal_z, normal.curvature);
+    pcl::flipNormalTowardsViewpoint ( cloud->at(320, 240), cloud->sensor_origin_[0], cloud->sensor_origin_[1], cloud->sensor_origin_[2], normal.normal_x, normal.normal_y, normal.normal_z);
 
 
     //std::cout << "cloud_normal at point: " << nx << " , " << ny << " , " << nz << " curvature " << curvature << std::endl;
-    std::cout << "cloud_normal at point: " << plane_parameters << std::endl;
-
+    std::cout << "cloud_normal at point: " << normal << std::endl;
+    }
 /*
   Eigen::Vector3f z_axis(normal_point.normal_x,normal_point.normal_y,normal_point.normal_z);
 
@@ -149,7 +180,7 @@ main (int argc, char** argv)
   transformation(2,0)=tmp2[0]; transformation(2,1)=tmp2[1]; transformation(2,2)=tmp2[2]; transformation(2,3)=0.0f;
   transformation(3,0)=0.0f; transformation(3,1)=0.0f; transformation(3,2)=0.0f; transformation(3,3)=1.0f;
 */
-
+/*
 
 
 
@@ -168,12 +199,15 @@ main (int argc, char** argv)
   Eigen::Vector3f tmp1 = (z_axis.normalized().cross(x_proj.normalized())).normalized();
   Eigen::Vector3f tmp2 = z_axis.normalized();
 
+  */
+
 /*  translate_z(0,0)=1; translate_z(0,1)=0; translate_z(0,2)=0; translate_z(0,3)=0.0f;
   translate_z(1,0)=0; translate_z(1,1)=1; translate_z(1,2)=0; translate_z(1,3)=0.0f;
   translate_z(2,0)=0; translate_z(2,1)=0; translate_z(2,2)=1; translate_z(2,3)=-_point.z;
   translate_z(3,0)=0.0f; translate_z(3,1)=0.0f; translate_z(3,2)=0.0f; translate_z(3,3)=1.0f;
 */
 
+/*
   transformation(0,0)=tmp0[0]; transformation(0,1)=tmp0[1]; transformation(0,2)=tmp0[2]; transformation(0,3)=0.0f;
   transformation(1,0)=tmp1[0]; transformation(1,1)=tmp1[1]; transformation(1,2)=tmp1[2]; transformation(1,3)=0.0f;
   transformation(2,0)=tmp2[0]; transformation(2,1)=tmp2[1]; transformation(2,2)=tmp2[2]; transformation(2,3)=0.0f;
@@ -243,6 +277,6 @@ main (int argc, char** argv)
    cv::imshow("image transformed", output_image);
 
    cv::waitKey(0);
-
+*/
     return 0;
 }
