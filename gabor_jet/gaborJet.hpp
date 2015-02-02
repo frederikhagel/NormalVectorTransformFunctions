@@ -23,11 +23,11 @@ public:
 gaborJet(int kernel_size, float f0, float sigma, int n_of_theta, int n_of_scales);
 ~gaborJet();
 
-std::vector< std::vector<cv::Mat> > computeResponse(cv::Mat image);
+std::vector< std::vector<float> > computeResponse(cv::Mat image);
 
 cv::Mat showRealJet(int time);
 
-float compareJetSinglePixel(std::vector< std::vector<cv::Mat> > jetSpace1, std::vector< std::vector<cv::Mat> > jetSpace2);
+float compareJetSinglePixel(std::vector< std::vector<float> > jetSpace1, std::vector< std::vector<float> > jetSpace2);
 
 private:
 

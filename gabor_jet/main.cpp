@@ -32,7 +32,7 @@ int main (int argc, char** argv)
     // create vector for comparison jets
 
     std::vector<std::string> compare_names;
-    std::vector< std::vector< std::vector<cv::Mat> > > compare_jets;
+    std::vector< std::vector< std::vector<float> > > compare_jets;
 
     std::string file_line;
     std::ifstream file ("/home/frederik/pcl/brodatz/textures/images_to_test.txt");
@@ -41,20 +41,57 @@ int main (int argc, char** argv)
     {
       while ( std::getline (file, file_line) )
       {
-        std::cout << file_line << std::endl;
+//        std::cout << file_line << std::endl;
         compare_names.push_back(file_line);
         cv::Mat image = cv::imread(file_line);
-        std::vector< std::vector<cv::Mat> > response = second_test.computeResponse(image);
+        cv::resize(image, image, cv::Size( 480, 480 ), 0.48, 0.48, 0);
+        std::vector< std::vector<float> > response = second_test.computeResponse(image);
+
         compare_jets.push_back(response);
       }
     }
 
 
-    std::vector<std::string> images_to_test = glob("/home/frederik/pcl/images/vertical_images/transformed_image*.jpeg");
-
+//    std::vector<std::string> images_to_test = glob("/home/frederik/pcl/images/vertical_images/transformed_image*.jpeg");
+        std::vector<std::string> images_to_test = glob("/home/frederik/pcl/images/all_images/transformed_image*.jpeg");
     std::cout << images_to_test.size() << std::endl;
 
-    cv::Mat image = cv::imread("/home/frederik/pcl/images/vertical_images/transformed_image0.0 0.0 0.1745datz_D95.jpeg", 1);
+    int number_of_correct = 0; //sadly
+
+    for(int image_index = 0; image_index < images_to_test.size(); image_index++)
+    {
+        float best_match = 0;
+        std::string best_name = "0";
+        cv::Mat image = cv::imread(images_to_test[image_index]);
+        std::vector< std::vector<float> > response = second_test.computeResponse(image);
+        for( int compare_index = 0; compare_index < compare_jets.size(); compare_index++)
+        {
+            float match = second_test.compareJetSinglePixel(response, compare_jets[compare_index]);
+            if( match > best_match)
+            {
+                best_match = match;
+                best_name = compare_names[compare_index];
+
+            }
+
+        }
+//        std::cout << std::endl;
+        int pos = images_to_test[image_index].find("D");
+        std::string correct_string = images_to_test[image_index].substr(pos,10);
+//        std::cout << correct_string << std::endl;
+
+        pos = best_name.find("D");
+        best_name = best_name.substr(pos,10);
+//        std::cout << best_name << std::endl;
+
+        if( correct_string == best_name)
+        {
+            number_of_correct += 1;
+        }
+
+    }
+
+    std::cout << "Number of correct: " << number_of_correct << std::endl;
 
 
 //    first_test.showRealKernel(0);

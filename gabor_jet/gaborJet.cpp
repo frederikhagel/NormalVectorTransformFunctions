@@ -39,17 +39,19 @@ gaborJet::gaborJet(int ks, float f0, float sigma, int n_of_theta, int n_of_scale
 gaborJet::~gaborJet() {}
 
 
-std::vector< std::vector<cv::Mat> > gaborJet::computeResponse(cv::Mat image) {
+std::vector< std::vector<float> > gaborJet::computeResponse(cv::Mat image) {
 
-    std::vector< std::vector<cv::Mat> > result;
+    std::vector< std::vector<float> > result;
 
 //    std::cout <<jetSpace.size() << std::endl;
 
     for(int i=0; i < jetSpace.size(); i++){
-        std::vector<cv::Mat> theta_result;
+        std::vector<float> theta_result;
         for(int j=0; j < jetSpace[i].size(); j++){
             cv::Mat wavelet_result = jetSpace[i][j].computeResponse(image);
-            theta_result.push_back( wavelet_result);
+            int y = wavelet_result.rows/2;
+            int x = wavelet_result.cols/2;
+            theta_result.push_back( wavelet_result.at<float>( y, x ) );
         }
         result.push_back( theta_result );
     }
@@ -58,23 +60,19 @@ std::vector< std::vector<cv::Mat> > gaborJet::computeResponse(cv::Mat image) {
 
 }
 
-float gaborJet::compareJetSinglePixel(std::vector< std::vector<cv::Mat> > jetSpace1, std::vector< std::vector<cv::Mat> > jetSpace2){
+float gaborJet::compareJetSinglePixel(std::vector< std::vector<float> > jetSpace1, std::vector< std::vector<float> > jetSpace2){
     float dot = 0;
     float norm1 = 0;
     float norm2 = 0;
 
     for(int i=0; i < jetSpace1.size(); i++){
         for(int j=0; j < jetSpace1[i].size(); j++){
-            int y = jetSpace1[i][j].rows;
-            int x = jetSpace1[i][j].cols;
-            dot += jetSpace1[i][j].at<float>(y, x) *  jetSpace2[i][j].at<float>(y, x);
-            norm1 += pow(jetSpace1[i][j].at<float>(y, x),2);
-            norm2 += pow(jetSpace2[i][j].at<float>(y, x),2);
+            dot += jetSpace1[i][j] *  jetSpace2[i][j];
+            norm1 += pow(jetSpace1[i][j],2);
+            norm2 += pow(jetSpace2[i][j],2);
 //            std::cout << jetSpace1[i][j].at<float>(y, x) << std::endl;
 
-
         }
-
     }
 
     norm1 = sqrt( norm1);
