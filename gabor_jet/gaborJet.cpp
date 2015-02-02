@@ -20,8 +20,8 @@ using namespace cv;
 
 gaborJet::gaborJet(int ks, float f0, float sigma, int n_of_theta, int n_of_scales){
 
-    float lambda = 1/f0;
-    float kernel_sigma = 2/pow(f0, 2);
+//    float lambda = 1/f0;
+//    float kernel_sigma = sigma/f0;
 
     for( int scale_index = 0; scale_index < n_of_scales; scale_index++){
         std::vector<gaborWavelet> theta_jet;
@@ -49,6 +49,7 @@ std::vector< std::vector<float> > gaborJet::computeResponse(cv::Mat image) {
         std::vector<float> theta_result;
         for(int j=0; j < jetSpace[i].size(); j++){
             cv::Mat wavelet_result = jetSpace[i][j].computeResponse(image);
+            cv::blur(wavelet_result, wavelet_result,cv::Size(7,7));
             int y = wavelet_result.rows/2;
             int x = wavelet_result.cols/2;
             theta_result.push_back( wavelet_result.at<float>( y, x ) );

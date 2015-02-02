@@ -27,7 +27,7 @@ class jetSpace:
                 theta = float(thetaadjustment)/rotations * np.pi 
                 
                 kernel_sigma = (( k +1)/(k-1))*np.sqrt(-np.log(p))
-                kernel_sigma = kernel_sigma/ (lm**2)
+                kernel_sigma = kernel_sigma/ lm
 
                 kernel_list.append( complexKernel(ks, kernel_sigma, theta, lm, scale ) )
             self.gabor_jet.append( kernel_list )
@@ -72,7 +72,7 @@ class jetSpace:
         for line_index, line in enumerate( gabor_list ):
             for gabor_index, gabor in enumerate(line):
 #                print line_index, gabor_index, gabor.shape
-                gabor = cv2.blur(gabor,(5,5))
+                gabor = cv2.blur(gabor,(7,7))
                 pixel_jet[line_index,gabor_index] = gabor[ pos[0],pos[1] ]
         
         return pixel_jet

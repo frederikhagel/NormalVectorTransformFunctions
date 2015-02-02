@@ -21,7 +21,7 @@ gaborWavelet::gaborWavelet(int ks, float f0, float sigma, float theta, float sca
     scaling = scale;
     float lambda = 1/f0;
 
-    float kernel_sigma = 2/pow(f0, 2);
+    float kernel_sigma = sigma/f0;
 
     real_kernel = cv::getGaborKernel(cv::Size(ks, ks), kernel_sigma, theta, lambda, 1,  0);
     imaginary_kernel = cv::getGaborKernel(cv::Size(ks, ks), kernel_sigma, theta, lambda, 1,  3.14159265359/2);

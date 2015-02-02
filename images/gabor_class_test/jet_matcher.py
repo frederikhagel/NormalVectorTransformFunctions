@@ -66,6 +66,135 @@ class jetMatcher:
 
         return best_jet
             
+            
+import matplotlib.pyplot as plt
+fig = plt.figure()
+ax = fig.add_subplot(111)
+
+lines = []
+
+
+
+histogram_list = []
+result_file = '../../brodatz/complete_comparison_results_vertical.txt'
+
+for correction in [1, 2]:
+    f = open(result_file, 'r')
+    
+    result_to_rot = {'0.0':0, '0.1745':0, 
+       '0.3491':0, '0.5236':0, 
+        '0.6981':0, '0.8727':0, 
+        '1.047':0, '1.222':0}
+    
+    result_list = []    
+    new = False
+    
+    index = 1
+    best_index = 0
+    best_result = np.inf
+    actual_index = 2
+    
+    number_of_image = 0
+    number_of_true = 0
+
+    
+    rotations = []
+    
+
+    
+    for line in f:
+        datalist = line.split(' ')
+    #    print datalist
+    
+        if len(datalist) > 3 and new == False:
+            new = True
+#            print datalist[0]
+
+            number_of_image += 1
+
+            tmp = datalist[0].split('.')
+            tmp = tmp[0].split('D')
+            actual_index = int(tmp[-1])
+
+            actual_rotation = datalist[1:]
+            if datalist[1:] not in rotations:
+                rotations.append(datalist[1:])
+
+            print actual_rotation[2][:-2]
+
+        elif len(datalist) > 3 and new == True:
+    #        print best_index
+    #        print actual_index        
+            if best_index == actual_index:
+    #            print True
+                number_of_true += 1
+                result_to_rot[ actual_rotation[2][:-2] ] = result_to_rot[ actual_rotation[2][:-2] ] + 1
+    #            print best_result
+            new =True
+    #        print datalist[0]
+            number_of_image += 1
+            index = 1
+            best_index = 0
+            best_result = np.inf
+
+            tmp = datalist[0].split('.')
+            tmp = tmp[0].split('D')
+            actual_index = int(tmp[-1])
+            
+#            if actual_rotation != datalist[1:]:
+#                print "not the same"
+            
+            actual_rotation = datalist[1:]
+            if datalist[1:] not in rotations:
+                rotations.append(datalist[1:])
+
+
+        else:
+    #        print datalist[0]
+            number = datalist[ correction ]#[1:-1]
+#            print actual_index
+            #1.047 and 0.5236 and 1.222
+            if actual_index == 99 and actual_rotation[1] == '1.222' and correction == 2:
+                histogram_list.append(number)
+    #        print number
+    #        number = datalist[2][:-2]
+            tmp = datalist[0].split('.')
+    #        print tmp[0]
+            tmp = tmp[0].split('D')
+    #        print tmp[-1]
+            index = int(tmp[-1])
+    #        print number
+            if number[-4:-2] == "e+":
+                number = float(number[:-4]) * (10 ** float(number[-1]))
+            else:
+                number = float(number)
+    #        print number
+            if number < best_result:
+                best_index = index
+                best_result = number
+            #print datalist[1]
+    #        index = index + 1
+            #for data in datalist:
+            #print data
+    
+    print 
+    print "number_of_true", number_of_true
+    
+    print "number_of_image", number_of_image
+
+    result = []    
+            
+    for index in [ '0.0', '0.1745', '0.3491', '0.5236', '0.6981', '0.8727', '1.047', '1.222' ]:
+        print "rotation " + index + "\t" + str(result_to_rot[index]) + "\t" + str(result_to_rot[index]/110.)
+        result.append(result_to_rot[index])        
+        
+    tmp, = plt.plot([ 0.0, 0.1745, 0.3491, 0.5236, 0.6981, 0.8727, 1.047, 1.222 ], result, label='Line 2')  
+
+    
+    lines.append(tmp)
+
+    print len(lines)            
+            
 
 for scaling in [ 0.2]: #0.5, 0.25,
 
@@ -87,8 +216,8 @@ for scaling in [ 0.2]: #0.5, 0.25,
     
     import glob
     
-    rotated_images = glob.glob('/home/frederik/pcl/images/all_images/*.jpeg')
-#    rotated_images = glob.glob('/home/frederik/pcl/images/vertical_images/*.jpeg')
+#    rotated_images = glob.glob('/home/frederik/pcl/images/all_images/*.jpeg')
+    rotated_images = glob.glob('/home/frederik/pcl/images/vertical_images/*.jpeg')
     print len(rotated_images)
     
     all_images = []
@@ -127,7 +256,7 @@ for scaling in [ 0.2]: #0.5, 0.25,
 
         if image_index == match[1]:
             number_of_correct += 1
-            result_to_rot[rotation.split(' ')[1]] += 1
+            result_to_rot[rotation.split(' ')[2]] += 1
             good_mathes.append(match[0])
         else:
 #            print match, image_index             
@@ -146,20 +275,20 @@ for scaling in [ 0.2]: #0.5, 0.25,
 #    import matplotlib.pyplot as plt
 #    fig = plt.figure()
 #    ax = fig.add_subplot(111)    
-#    
+    
 #    lines = []
-#    result = []    
+    result = []    
     for index in [ '0.0', '0.1745', '0.3491', '0.5236', '0.6981', '0.8727', '1.047', '1.222' ]:
         print result_to_rot[index]
-#        result.append(result_to_rot[index])        
-#        
-#    tmp, = plt.plot([ 0.0, 0.1745, 0.3491, 0.5236, 0.6981, 0.8727, 1.047, 1.222 ], result, label='Line 2')  
-#
-#    
-#    lines.append(tmp)
-#
-#    plt.xlabel('Rotation')
-#    plt.ylabel('Recognized')
-#    plt.legend([lines[0]], ["Gabor Correction"])
-#    plt.grid()
-#    plt.show()                    
+        result.append(result_to_rot[index])        
+        
+    tmp, = plt.plot([ 0.0, 0.1745, 0.3491, 0.5236, 0.6981, 0.8727, 1.047, 1.222 ], result, label='Line 2')  
+
+    
+    lines.append(tmp)
+
+    plt.xlabel('Rotation')
+    plt.ylabel('Recognized')
+    plt.legend([lines[0], lines[1], lines[2]], ['No correction', 'Correction', 'Gabor Corrected'])
+    plt.grid()
+    plt.show()                    
