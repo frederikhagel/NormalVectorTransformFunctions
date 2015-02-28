@@ -32,27 +32,24 @@ gaborJet::gaborJet(int ks, float f0, float sigma, int n_of_theta, int n_of_scale
             theta_jet.push_back(  wavelet );
 //            jetSpace[scale_index].push_back(  wavelet );
         }
-        jetSpace.push_back( theta_jet );
+        _jetSpace.push_back( theta_jet );
     }
 }
 
 gaborJet::~gaborJet() {}
 
 
-std::vector< std::vector<float> > gaborJet::computeResponse(cv::Mat image) {
+std::vector< std::vector<cv::Mat> > gaborJet::computeResponse(cv::Mat image) {
 
-    std::vector< std::vector<float> > result;
+    std::vector< std::vector<cv::Mat> > result;
 
 //    std::cout <<jetSpace.size() << std::endl;
 
-    for(int i=0; i < jetSpace.size(); i++){
-        std::vector<float> theta_result;
-        for(int j=0; j < jetSpace[i].size(); j++){
-            cv::Mat wavelet_result = jetSpace[i][j].computeResponse(image);
-            cv::blur(wavelet_result, wavelet_result,cv::Size(7,7));
-            int y = wavelet_result.rows/2;
-            int x = wavelet_result.cols/2;
-            theta_result.push_back( wavelet_result.at<float>( y, x ) );
+    for(int i=0; i < _jetSpace.size(); i++){
+        std::vector<cv::Mat> theta_result;
+        for(int j=0; j < _jetSpace[i].size(); j++){
+            cv::Mat wavelet_result = _jetSpace[i][j].computeResponse(image);
+            theta_result.push_back( wavelet_result );
         }
         result.push_back( theta_result );
     }
@@ -86,9 +83,32 @@ float gaborJet::compareJetSinglePixel(std::vector< std::vector<float> > jetSpace
 
 
 
-//cv::Mat gaborJet::showRealJet(int time) {
+cv::Mat gaborJet::showRealJet(int time) {
 
-//    cv::imshow("Real Kernel", real_kernel);
-//    cv::waitKey(time);
-//    return real_kernel;
-//}
+    std::vector<cv::Mat> thetaResponces;
+
+//    float largest_scale = _jetSpace[0].size() -1;
+//    int original_shape_x = _jetSpace[0][0].showRealKernel(1).cols;
+//    int original_shape_y = _jetSpace[0][0].showRealKernel(1).rows;
+
+
+    for(int i=0; i < _jetSpace.size(); i++){
+        std::vector<cv::Mat> responces;
+        for(int j=0; j < _jetSpace[i].size(); j++){
+            cv::Mat current_image =_jetSpace[i][j].showRealKernel(1);
+//            cv::Mat larger_image;
+//            cv::resize(current_image, larger_image, cv::Size( original_shape_x * pow(2, largest_scale), original_shape_y * pow(2, largest_scale) ) );
+
+            responces.push_back( current_image );
+            }
+        cv::Mat theta_image;
+        cv::hconcat(responces, theta_image);
+        thetaResponces.push_back( theta_image );
+    }
+    cv::Mat combinedImage;
+    cv::vconcat(thetaResponces, combinedImage );
+//    image_to_show = cv2.normalize( image_to_show,0,255 )
+    cv::imshow("Gabor Kernels", combinedImage);
+    cv::waitKey(time);
+    return combinedImage;
+}

@@ -1,0 +1,1980 @@
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.981746
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.987343
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.989784
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.991539
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.990518
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.984047
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.973015
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.978911
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.952362
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.982377
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.982372
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.988808
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.989814
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.981721
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.971666
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.960229
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.94092
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.922316
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.972002
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.977137
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.989036
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.979842
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.974427
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.955976
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.964252
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.950392
+/home/frederik/pcl/brodatz/textures/brodatz_D3.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.93402
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.9697
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.965317
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.976558
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.967889
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.959643
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.939811
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.932977
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.927366
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.914291
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.988555
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.993728
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.992348
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.991336
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.985015
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.984437
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.961632
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.931517
+/home/frederik/pcl/brodatz/textures/brodatz_D5.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.904101
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.941348
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.943209
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.943234
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.924401
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.92159
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.912329
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.930341
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.888395
+/home/frederik/pcl/brodatz/textures/brodatz_D6.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.885182
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.989411
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.995534
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.996671
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.995873
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.986114
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.985534
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.979392
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.944042
+/home/frederik/pcl/brodatz/textures/brodatz_D7.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.887571
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.995329
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.996189
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.997167
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.997112
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.996623
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.996513
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.993729
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.99254
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D8.jpeg 0.978606
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.982651
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.986108
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.989192
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.976431
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.966291
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.969808
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.960628
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.930991
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.886671
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.976181
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.983156
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.979262
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.97222
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.958349
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.96279
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.956233
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.928248
+/home/frederik/pcl/brodatz/textures/brodatz_D10.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.917505
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.988995
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.993454
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.994601
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.994684
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.993388
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.986185
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.980641
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.974135
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D11.jpeg 0.947784
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.984914
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.988404
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.989252
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.98662
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.982944
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.966162
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.969606
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.970315
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D12.jpeg 0.936802
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.989163
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.994737
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.995937
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.995771
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.990161
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.98493
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.971104
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.967766
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D13.jpeg 0.956556
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.982998
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.985688
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.986496
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.988045
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.985538
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.986094
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.980846
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.965904
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.931236
+/home/frederik/pcl/brodatz/textures/brodatz_D16.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.941911
+/home/frederik/pcl/brodatz/textures/brodatz_D16.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.942774
+/home/frederik/pcl/brodatz/textures/brodatz_D16.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.934178
+/home/frederik/pcl/brodatz/textures/brodatz_D16.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.94764
+/home/frederik/pcl/brodatz/textures/brodatz_D16.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.937606
+/home/frederik/pcl/brodatz/textures/brodatz_D16.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D16.jpeg 0.93258
+/home/frederik/pcl/brodatz/textures/brodatz_D16.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.933115
+/home/frederik/pcl/brodatz/textures/brodatz_D16.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.916049
+/home/frederik/pcl/brodatz/textures/brodatz_D16.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.917954
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.977265
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.982091
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.978838
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.976568
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.966456
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.949076
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.914007
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.913117
+/home/frederik/pcl/brodatz/textures/brodatz_D17.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.901386
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.994606
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.996205
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.997295
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.996714
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.994036
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.990887
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.981131
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.968483
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D18.jpeg 0.943866
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.984243
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.991701
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.995068
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.989637
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.98354
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.966571
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.952026
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.950513
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.911057
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.949
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.969962
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.989229
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.990161
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.962912
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.954703
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.918573
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.902067
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.922118
+/home/frederik/pcl/brodatz/textures/brodatz_D21.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.925501
+/home/frederik/pcl/brodatz/textures/brodatz_D21.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.948044
+/home/frederik/pcl/brodatz/textures/brodatz_D21.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.932395
+/home/frederik/pcl/brodatz/textures/brodatz_D21.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.892751
+/home/frederik/pcl/brodatz/textures/brodatz_D21.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.92031
+/home/frederik/pcl/brodatz/textures/brodatz_D21.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D1.jpeg 0.921389
+/home/frederik/pcl/brodatz/textures/brodatz_D21.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.955529
+/home/frederik/pcl/brodatz/textures/brodatz_D21.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.8454
+/home/frederik/pcl/brodatz/textures/brodatz_D21.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.906153
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.979044
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.981963
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.990878
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.975662
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.971346
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.949859
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.959846
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.933772
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.880402
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.992433
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.995597
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.996674
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.99483
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.991938
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.988202
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.972514
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.960519
+/home/frederik/pcl/brodatz/textures/brodatz_D23.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.913643
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.990385
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.992802
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.992083
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.983736
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.978789
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.979863
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.972857
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.953341
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.895579
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.984005
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.979552
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.970689
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.9799
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.96238
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.956814
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.969779
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.893881
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D25.jpeg 0.912198
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.981949
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.989396
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.9934
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.970963
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.942534
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.934949
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.949
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.965091
+/home/frederik/pcl/brodatz/textures/brodatz_D26.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.900569
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.982814
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.989155
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.991893
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.989143
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.981693
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.978843
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.97093
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.961879
+/home/frederik/pcl/brodatz/textures/brodatz_D27.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.913718
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.981639
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.988571
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.989334
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.99125
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.984575
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.978041
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.957747
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.955732
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.91295
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.978159
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.986879
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.986275
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.986445
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.978832
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.968663
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.958715
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.91645
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.887171
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.996976
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.99775
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.998336
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.998455
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.9965
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.993184
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.989856
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.982551
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.968212
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.997178
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.998433
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.998163
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.997991
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.996228
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.993968
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.991045
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.972302
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D31.jpeg 0.952579
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.971904
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.973469
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.977434
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.965443
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.952229
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.928582
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.941472
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.916843
+/home/frederik/pcl/brodatz/textures/brodatz_D32.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.902215
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.964699
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.978842
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.984991
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.984563
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.96508
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.946222
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.954608
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.945167
+/home/frederik/pcl/brodatz/textures/brodatz_D33.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.888488
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.965322
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.969016
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.9815
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.961817
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.942072
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.935036
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.879885
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.905806
+/home/frederik/pcl/brodatz/textures/brodatz_D34.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.857134
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.99265
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.993958
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.995839
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.99507
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.99401
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.99355
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.990303
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.990425
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D35.jpeg 0.970383
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.978364
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.979502
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.982309
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.980032
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.975413
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.969013
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.950531
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.920678
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.928637
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.984231
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.993246
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.996496
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.992184
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.990561
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.976576
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.962684
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.93874
+/home/frederik/pcl/brodatz/textures/brodatz_D37.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.868281
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.962496
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.97645
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.97848
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.970059
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.957716
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.954314
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.968248
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.916302
+/home/frederik/pcl/brodatz/textures/brodatz_D38.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.9086
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.969779
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.980506
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.989389
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.987771
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.970979
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.943251
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.951134
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.925705
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D39.jpeg 0.922886
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.982121
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.987839
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.989947
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.987864
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.989285
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.985271
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.978096
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.950741
+/home/frederik/pcl/brodatz/textures/brodatz_D40.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.880152
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.966724
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.980182
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.978552
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.970448
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.95742
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.920364
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.918132
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D9.jpeg 0.870599
+/home/frederik/pcl/brodatz/textures/brodatz_D41.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.868972
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.977966
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.977365
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.983945
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.978315
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.957172
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.970754
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.940241
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.9225
+/home/frederik/pcl/brodatz/textures/brodatz_D42.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.907705
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.988626
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.995093
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.995657
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.992775
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.983642
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.976018
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.9411
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.927774
+/home/frederik/pcl/brodatz/textures/brodatz_D43.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.910669
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.999812
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.999759
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.999742
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.999728
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.99966
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.999805
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.999704
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.999716
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D44.jpeg 0.999609
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.990586
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.992652
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.994045
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.992613
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.988726
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.982782
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.968691
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.942146
+/home/frederik/pcl/brodatz/textures/brodatz_D45.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.889874
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.996483
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.997378
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.997549
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.997028
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.992105
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.991494
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.980066
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.972284
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D46.jpeg 0.945556
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.989172
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.994979
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.99687
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.991838
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.985813
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.96583
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.954135
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.937922
+/home/frederik/pcl/brodatz/textures/brodatz_D47.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.889324
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.999202
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.999586
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.99982
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.999658
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.999231
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.99832
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.995475
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.992796
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.963733
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.985261
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.984337
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.949537
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.988856
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.952245
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.98334
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.950587
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.885261
+/home/frederik/pcl/brodatz/textures/brodatz_D49.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D48.jpeg 0.793221
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.993526
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.993991
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.995769
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.995009
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.99232
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.990695
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.991803
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.989164
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D50.jpeg 0.979865
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.998345
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.99871
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.99861
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.998501
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.998175
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.998201
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.997735
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.997776
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D51.jpeg 0.996994
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.964348
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.977013
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.987075
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.966962
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.969721
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.960108
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.95241
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D20.jpeg 0.923464
+/home/frederik/pcl/brodatz/textures/brodatz_D52.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.881006
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.976591
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.96429
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.963917
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.96628
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.968251
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.962973
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.968042
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.951892
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D53.jpeg 0.917781
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.987104
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.990562
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.994537
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.98787
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.977497
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.966365
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.957552
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.951518
+/home/frederik/pcl/brodatz/textures/brodatz_D54.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.912449
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.978672
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.98276
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.976673
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.971952
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.974428
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.965899
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.909091
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.87967
+/home/frederik/pcl/brodatz/textures/brodatz_D55.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.875913
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.98335
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.992206
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.993937
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.99216
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.985346
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.982448
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.974807
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.975147
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D56.jpeg 0.938624
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.977999
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.979796
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.982743
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.968696
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.963257
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.924552
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.917245
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D29.jpeg 0.918052
+/home/frederik/pcl/brodatz/textures/brodatz_D57.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.896656
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.994367
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.996707
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.997447
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.997067
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.995383
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.991032
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.982698
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.987406
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D58.jpeg 0.947635
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.998047
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.998562
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.998097
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.997281
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.993651
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.99279
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.987675
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.981157
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.938002
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.986363
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.990417
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.993025
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.99215
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.988284
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.983729
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.959362
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.949656
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.937941
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.992303
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.994862
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.994451
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.990653
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.985814
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.976339
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.962057
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.954842
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D61.jpeg 0.915729
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.987857
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.992972
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.996095
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.99504
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.993736
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.984908
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.97412
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.961478
+/home/frederik/pcl/brodatz/textures/brodatz_D62.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D59.jpeg 0.915495
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.993186
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.996586
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.997926
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.994585
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.99092
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.988431
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.975654
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.978216
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D63.jpeg 0.974738
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.942461
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.959258
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.971622
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.970029
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.957995
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.949073
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.935107
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.929852
+/home/frederik/pcl/brodatz/textures/brodatz_D64.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.896466
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.965951
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.982656
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.98328
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.970871
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.972888
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.959857
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.942736
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.936327
+/home/frederik/pcl/brodatz/textures/brodatz_D65.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.901242
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.984672
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.992136
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.989119
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.984359
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.980549
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.972491
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.947875
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.966924
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D66.jpeg 0.907986
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.99007
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.993429
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.996227
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.994007
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.989914
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.975341
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.958852
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.93732
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D67.jpeg 0.898594
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.967759
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.960212
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.952054
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.959151
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.960656
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.95604
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.957544
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.942024
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.924222
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.975356
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.983776
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.986717
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.988605
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.977259
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.964267
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.980146
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.963733
+/home/frederik/pcl/brodatz/textures/brodatz_D69.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.917792
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.981494
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.981971
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.981537
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.982996
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.977901
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.9699
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.972833
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.974886
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.937362
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.987894
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.989221
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.990943
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.991583
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.988319
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.980218
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.967255
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.958632
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.931424
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.986933
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.990239
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.992682
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.99138
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.978046
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.967575
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.966591
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.952812
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.925259
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.985356
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.989584
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.992064
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.990442
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.984232
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.979743
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.973171
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.964471
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.914261
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.986384
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.99283
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.994126
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.994676
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.992451
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.985804
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.986591
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.969841
+/home/frederik/pcl/brodatz/textures/brodatz_D74.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.880072
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.995306
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.997848
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.999105
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.997452
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.995195
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.992263
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.987066
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.98452
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D75.jpeg 0.950951
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.99169
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.993146
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.995143
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.993671
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.990851
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.988077
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.992174
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.985697
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D76.jpeg 0.978949
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.939334
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.939758
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.938345
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.940251
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.933193
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.954524
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.910864
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D4.jpeg 0.887537
+/home/frederik/pcl/brodatz/textures/brodatz_D77.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D22.jpeg 0.864326
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.95533
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.962854
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.945427
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.937419
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.953278
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.949788
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.944177
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.938498
+/home/frederik/pcl/brodatz/textures/brodatz_D78.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.913136
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.945867
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.941775
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.956373
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.951404
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.940308
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.932989
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.936379
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.934474
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.935654
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.966877
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.959814
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.976129
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.977836
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.972317
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.944284
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.94096
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.921048
+/home/frederik/pcl/brodatz/textures/brodatz_D80.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.895474
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.978805
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.98685
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.985231
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.976103
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.970353
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.966948
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.945428
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.927937
+/home/frederik/pcl/brodatz/textures/brodatz_D81.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D15.jpeg 0.870884
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.971352
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.977818
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.980372
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.975424
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.972582
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.967758
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D71.jpeg 0.958184
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.956308
+/home/frederik/pcl/brodatz/textures/brodatz_D82.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.917127
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.961429
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.954895
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.957625
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.968608
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.946771
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.948529
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.933461
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.931594
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D83.jpeg 0.913227
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.967049
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.986071
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.989569
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.969606
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.974526
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.957422
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.94173
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.89865
+/home/frederik/pcl/brodatz/textures/brodatz_D84.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.900578
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.970671
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.960202
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.965601
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.96848
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.967496
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.963037
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.956345
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.956921
+/home/frederik/pcl/brodatz/textures/brodatz_D85.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.914402
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.960479
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.979977
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.984852
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.97335
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.97027
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.955493
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.946777
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.962396
+/home/frederik/pcl/brodatz/textures/brodatz_D86.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.923328
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.957792
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.977473
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.988158
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.985605
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.975673
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.962378
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.932818
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D24.jpeg 0.923157
+/home/frederik/pcl/brodatz/textures/brodatz_D87.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D2.jpeg 0.892937
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.993537
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.996147
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.995866
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.995403
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.991582
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.98678
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.991457
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.980756
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D88.jpeg 0.925182
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.995736
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.997741
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.997919
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.998025
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.995596
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.993895
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.988877
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.976545
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D89.jpeg 0.942127
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.994703
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.996634
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.99733
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.997739
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.995673
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.992426
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.987806
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.983546
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D90.jpeg 0.960681
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.997197
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.9986
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.998675
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.997922
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.996319
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.995729
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.985206
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.990242
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D91.jpeg 0.967878
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.951171
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.975442
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.979
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.974278
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.948227
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.926493
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.9386
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.943505
+/home/frederik/pcl/brodatz/textures/brodatz_D92.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.896633
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.970122
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.975716
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.984515
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.982143
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.983623
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.976609
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.971989
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.946761
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D93.jpeg 0.942855
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.97906
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.981052
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.978984
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.981962
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.968096
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.940405
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.927939
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.93379
+/home/frederik/pcl/brodatz/textures/brodatz_D94.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.942888
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.992161
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.995389
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.990272
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.984899
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.96091
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.973165
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.979058
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.933543
+/home/frederik/pcl/brodatz/textures/brodatz_D95.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.916493
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.974162
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.987607
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.995312
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.99345
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.975297
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.950413
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.900786
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.974505
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D96.jpeg 0.928724
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.976612
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.98538
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.98906
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.987941
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.982244
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.974129
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.960141
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.946725
+/home/frederik/pcl/brodatz/textures/brodatz_D97.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.911839
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.991514
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.994139
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.995077
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.991228
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.988304
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.989459
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.988169
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.974375
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D98.jpeg 0.911345
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.993705
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.996671
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.99762
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.996472
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.991968
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.992586
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.990952
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.97874
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D99.jpeg 0.949117
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.96463
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.97712
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.979548
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.984143
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.965226
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.947508
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.935689
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.948597
+/home/frederik/pcl/brodatz/textures/brodatz_D100.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.87405
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.992694
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.995277
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.995821
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.997687
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.994601
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.986675
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.986903
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.979226
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.887991
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.98798
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.98817
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.992721
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.994373
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.989392
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.986158
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.981095
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.955536
+/home/frederik/pcl/brodatz/textures/brodatz_D102.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D101.jpeg 0.90011
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.977554
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.983841
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.980318
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.95302
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.921883
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.938653
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.928432
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D36.jpeg 0.860471
+/home/frederik/pcl/brodatz/textures/brodatz_D103.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D60.jpeg 0.871456
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.978401
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.989162
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.983438
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.978279
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.97661
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.9708
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.955644
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D19.jpeg 0.897581
+/home/frederik/pcl/brodatz/textures/brodatz_D104.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D72.jpeg 0.898109
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.937918
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.946467
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.951194
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.953587
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.96114
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.964191
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.956154
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.944091
+/home/frederik/pcl/brodatz/textures/brodatz_D105.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D79.jpeg 0.89591
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.945219
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.933248
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.938668
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.919283
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.910856
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.930694
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.945137
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.928646
+/home/frederik/pcl/brodatz/textures/brodatz_D106.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D68.jpeg 0.952245
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.987262
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.988523
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.98746
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.98633
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.98049
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.940477
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.95917
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.89508
+/home/frederik/pcl/brodatz/textures/brodatz_D107.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D28.jpeg 0.854498
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.989149
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.994157
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.997018
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.994964
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.992178
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.987466
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.978056
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.975936
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D108.jpeg 0.969045
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.977853
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.957401
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.966969
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.977472
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.969993
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.984536
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.923894
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.976844
+/home/frederik/pcl/brodatz/textures/brodatz_D109.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D30.jpeg 0.862887
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.972073
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.97448
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.972889
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.980822
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.974373
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.976432
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.965531
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.933094
+/home/frederik/pcl/brodatz/textures/brodatz_D110.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D70.jpeg 0.9211
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.0 0.0 0.0
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.964186
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.0 0.0 0.1745
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.978394
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.0 0.0 0.3491
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.983636
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.0 0.0 0.5236
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.987567
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.0 0.0 0.6981
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.986609
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.0 0.0 0.8727
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.981483
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.0 0.0 1.047
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.96684
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.0 0.0 1.222
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.961455
+/home/frederik/pcl/brodatz/textures/brodatz_D111.jpeg 0.0 0.0 1.396
+/home/frederik/pcl/brodatz/textures/brodatz_D73.jpeg 0.881244

@@ -1,0 +1,141 @@
+0.05
+Failed to load OpenCL runtime
+431
+Number of correct: 294
+0.1
+Failed to load OpenCL runtime
+431
+Number of correct: 319
+0.15
+Failed to load OpenCL runtime
+431
+Number of correct: 333
+0.2
+Failed to load OpenCL runtime
+431
+Number of correct: 340
+0.25
+Failed to load OpenCL runtime
+431
+Number of correct: 348
+0.3
+Failed to load OpenCL runtime
+431
+Number of correct: 353
+0.35
+Failed to load OpenCL runtime
+431
+Number of correct: 360
+0.4
+Failed to load OpenCL runtime
+431
+Number of correct: 361
+0.45
+Failed to load OpenCL runtime
+431
+Number of correct: 355
+0.5
+Failed to load OpenCL runtime
+431
+Number of correct: 348
+0.55
+Failed to load OpenCL runtime
+431
+Number of correct: 338
+0.6
+Failed to load OpenCL runtime
+431
+Number of correct: 323
+0.65
+Failed to load OpenCL runtime
+431
+Number of correct: 310
+0.7
+Failed to load OpenCL runtime
+431
+Number of correct: 301
+0.75
+Failed to load OpenCL runtime
+431
+Number of correct: 282
+0.8
+Failed to load OpenCL runtime
+431
+Number of correct: 259
+0.85
+Failed to load OpenCL runtime
+431
+Number of correct: 209
+0.9
+Failed to load OpenCL runtime
+431
+Number of correct: 128
+0.95
+Failed to load OpenCL runtime
+431
+Number of correct: 64
+
+
+Testing the standard function with increasing nr of frequncies and srqt and srqt*2 gave worse resul :/
+
+Next test will be a proper loop of doom, taking the correct sigma into account, and all the other articles ( the last one was a bit cheating :p )
+
+
+Failed to load OpenCL runtime
+431
+Number of correct: 361
+Failed to load OpenCL runtime
+431
+Number of correct: 334
+Failed to load OpenCL runtime
+431
+Number of correct: 361
+Failed to load OpenCL runtime
+431
+Number of correct: 366
+Failed to load OpenCL runtime
+431
+Number of correct: 368
+Failed to load OpenCL runtime
+431
+Number of correct: 358
+Failed to load OpenCL runtime
+431
+Number of correct: 369
+Failed to load OpenCL runtime
+431
+Number of correct: 364
+Failed to load OpenCL runtime
+431
+Number of correct: 350
+Failed to load OpenCL runtime
+431
+Number of correct: 242
+Failed to load OpenCL runtime
+431
+Number of correct: 245
+Failed to load OpenCL runtime
+431
+Number of correct: 183
+Failed to load OpenCL runtime
+431
+Number of correct: 167
+
+
+
+Failed to load OpenCL runtime
+431
+Number of correct: 283
+Failed to load OpenCL runtime
+431
+Number of correct: 366
+Failed to load OpenCL runtime
+431
+Number of correct: 358
+Failed to load OpenCL runtime
+431
+Number of correct: 347
+Failed to load OpenCL runtime
+
+
+

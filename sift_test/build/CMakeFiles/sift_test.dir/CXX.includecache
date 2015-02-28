@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/frederik/pcl/sift_test/sift_test.cpp
+opencv2/opencv.hpp
+-
+opencv2/xfeatures2d.hpp
+/home/frederik/pcl/sift_test/opencv2/xfeatures2d.hpp
+iostream
+-
+vector
+-
+cmath
+-
+

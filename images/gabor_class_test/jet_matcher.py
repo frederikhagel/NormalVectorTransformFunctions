@@ -66,7 +66,17 @@ class jetMatcher:
 
         return best_jet
             
-            
+    def calculateResponseRotationShift(self, image):   
+        gabor_response = []    
+        for kernel_listn in self.gabor_jet:                                  
+            analyzed_images = []
+            for kernel in kernel_listn:
+                gabor_image = kernel.analyze(image)        
+                analyzed_images.append(gabor_image)
+            gabor_response.append(analyzed_images)
+        return gabor_response           
+           
+           
 import matplotlib.pyplot as plt
 fig = plt.figure()
 ax = fig.add_subplot(111)
@@ -84,7 +94,7 @@ for correction in [1, 2]:
     result_to_rot = {'0.0':0, '0.1745':0, 
        '0.3491':0, '0.5236':0, 
         '0.6981':0, '0.8727':0, 
-        '1.047':0, '1.222':0}
+        '1.047':0, '1.222':0, '1.396':0}   
     
     result_list = []    
     new = False
@@ -184,11 +194,11 @@ for correction in [1, 2]:
 
     result = []    
             
-    for index in [ '0.0', '0.1745', '0.3491', '0.5236', '0.6981', '0.8727', '1.047', '1.222' ]:
+    for index in [ '0.0', '0.1745', '0.3491', '0.5236', '0.6981', '0.8727', '1.047', '1.222', '1.396' ]:
         print "rotation " + index + "\t" + str(result_to_rot[index]) + "\t" + str(result_to_rot[index]/110.)
         result.append(result_to_rot[index])        
         
-    tmp, = plt.plot([ 0.0, 0.1745, 0.3491, 0.5236, 0.6981, 0.8727, 1.047, 1.222 ], result, label='Line 2')  
+    tmp, = plt.plot([ 0.0, 0.1745, 0.3491, 0.5236, 0.6981, 0.8727, 1.047, 1.222, 1.396 ], result, label='Line 2')  
 
     
     lines.append(tmp)
@@ -203,7 +213,7 @@ for scaling in [ 0.2]: #0.5, 0.25,
     result_to_rot = {'0.0':0, '0.1745':0, 
     '0.3491':0, '0.5236':0, 
     '0.6981':0, '0.8727':0, 
-    '1.047':0, '1.222':0}    
+    '1.047':0, '1.222':0, '1.396':0}    
     
     for testD in range(1,14) + range(15,112):
 
@@ -278,11 +288,11 @@ for scaling in [ 0.2]: #0.5, 0.25,
     
 #    lines = []
     result = []    
-    for index in [ '0.0', '0.1745', '0.3491', '0.5236', '0.6981', '0.8727', '1.047', '1.222' ]:
+    for index in [ '0.0', '0.1745', '0.3491', '0.5236', '0.6981', '0.8727', '1.047', '1.222', '1.396' ]:
         print result_to_rot[index]
         result.append(result_to_rot[index])        
         
-    tmp, = plt.plot([ 0.0, 0.1745, 0.3491, 0.5236, 0.6981, 0.8727, 1.047, 1.222 ], result, label='Line 2')  
+    tmp, = plt.plot([ 0.0, 0.1745, 0.3491, 0.5236, 0.6981, 0.8727, 1.047, 1.222, 1.396 ], result, label='Line 2')  
 
     
     lines.append(tmp)

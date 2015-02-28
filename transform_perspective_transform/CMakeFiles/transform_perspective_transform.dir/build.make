@@ -151,6 +151,17 @@ transform_perspective_transform: /usr/lib/libvtkInfovis.so.5.8.0
 transform_perspective_transform: /usr/lib/libvtkGeovis.so.5.8.0
 transform_perspective_transform: /usr/lib/libvtkViews.so.5.8.0
 transform_perspective_transform: /usr/lib/libvtkCharts.so.5.8.0
+transform_perspective_transform: /usr/local/lib/libopencv_xfeatures2d.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_tracking.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_text.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_surface_matching.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_reg.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_optflow.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_line_descriptor.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_latentsvm.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_ccalib.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_bioinspired.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_bgsegm.so.3.0.0
 transform_perspective_transform: /usr/local/lib/libopencv_viz.so.3.0.0
 transform_perspective_transform: /usr/local/lib/libopencv_videostab.so.3.0.0
 transform_perspective_transform: /usr/local/lib/libopencv_videoio.so.3.0.0
@@ -204,14 +215,17 @@ transform_perspective_transform: /usr/lib/libvtkFiltering.so.5.8.0
 transform_perspective_transform: /usr/lib/libvtkCommon.so.5.8.0
 transform_perspective_transform: /usr/lib/libvtksys.so.5.8.0
 transform_perspective_transform: /usr/local/share/OpenCV/3rdparty/lib/libippicv.a
+transform_perspective_transform: /usr/local/lib/libopencv_xfeatures2d.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_shape.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_video.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_calib3d.so.3.0.0
 transform_perspective_transform: /usr/local/lib/libopencv_features2d.so.3.0.0
 transform_perspective_transform: /usr/local/lib/libopencv_ml.so.3.0.0
 transform_perspective_transform: /usr/local/lib/libopencv_highgui.so.3.0.0
 transform_perspective_transform: /usr/local/lib/libopencv_videoio.so.3.0.0
 transform_perspective_transform: /usr/local/lib/libopencv_imgcodecs.so.3.0.0
-transform_perspective_transform: /usr/local/lib/libopencv_flann.so.3.0.0
-transform_perspective_transform: /usr/local/lib/libopencv_video.so.3.0.0
 transform_perspective_transform: /usr/local/lib/libopencv_imgproc.so.3.0.0
+transform_perspective_transform: /usr/local/lib/libopencv_flann.so.3.0.0
 transform_perspective_transform: /usr/local/lib/libopencv_core.so.3.0.0
 transform_perspective_transform: CMakeFiles/transform_perspective_transform.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable transform_perspective_transform"

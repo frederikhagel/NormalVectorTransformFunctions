@@ -1,0 +1,32 @@
+cmake_minimum_required(VERSION 2.8 FATAL_ERROR)
+
+project(gabor_jet)
+
+#include_directories(/usr/local/include)
+#include_directories(/usr/local/lib)
+#include_directories(/usr/local/bin)
+
+find_package(COVIS HINTS ~/covis/build)
+add_definitions(${COVIS_DEFINITIONS})
+include_directories(${COVIS_INCLUDE_DIRS})
+
+# Check variables
+#if(NOT COVIS_LIBRARY)
+#  message("COVIS_LIBRARY not defined!")
+#endif(NOT COVIS_LIBRARY)
+#if(NOT COVIS_LIBRARIES_BUILD)
+#  message("COVIS_LIBRARIES_BUILD not defined!")
+#endif(NOT COVIS_LIBRARIES_BUILD)
+
+
+find_package( OpenCV REQUIRED )
+
+include_directories(include)
+
+add_executable(gabor_jet
+  main.cpp
+  gaborMatcher.cpp
+  gaborMatcher.hpp
+)
+#target_link_libraries (gabor_jet ${OpenCV_LIBS} )
+target_link_libraries(gabor_jet ${COVIS_LIBRARIES} ${OpenCV_LIBS} )

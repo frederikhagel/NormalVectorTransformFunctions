@@ -65,9 +65,9 @@ start_point_2D = np.array(start_point_2D, np.float32)
 print end_point_2D
 
 M = cv2.getPerspectiveTransform(end_point_2D,start_point_2D)
-
+print "M"
 print M
-
+print "M"
 dst = cv2.warpPerspective(img, M , (img.shape[1]*2,img.shape[0]*2))
 
 cv2.imshow("img1", dst)
@@ -127,8 +127,9 @@ M = cv2.getPerspectiveTransform(end_point_2D,start_point_2D)
 
 #M = cv2.getPerspectiveTransform(start_point_2D, end_point_2D)
  
-print
+print "real M"
 print M
+print "real M"
 
 dst = cv2.warpPerspective(img, M , (img.shape[1],img.shape[0]))
 

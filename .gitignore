@@ -1,4 +1,11 @@
 images/vertical_images
 images/all_images
+images/rotated_images
 brodatz/video_images
 brodatz/textures
+create_pcl/frosties_vpangle
+create_pcl/granada_camrotate40
+create_pcl/granada_camrotate60
+create_pcl/worldmap_rotate
+create_pcl/worldmap_scale
+create_pcl/worldmap_vpangle45

@@ -25,10 +25,10 @@ cv::Mat showRealKernel(int time);
 
 private:
 
-float scaling;
+float _scaling;
 
-cv::Mat real_kernel;
-cv::Mat imaginary_kernel;
+cv::Mat _realKernel;
+cv::Mat _imaginaryKernel;
 
 };
 
