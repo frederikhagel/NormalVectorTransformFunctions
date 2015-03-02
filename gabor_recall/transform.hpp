@@ -20,7 +20,7 @@ transform();
 
 ~transform();
 
-cv::Mat transform_image(cv::Mat image_color, cv::Mat image_depth, int x, int y);
+std::vector<cv::Mat> transform_image(cv::Mat image_color, cv::Mat image_depth, std::vector<int> xList, std::vector<int> yList);
 
 private:
 

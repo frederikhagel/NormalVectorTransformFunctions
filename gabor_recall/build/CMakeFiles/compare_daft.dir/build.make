@@ -95,83 +95,67 @@ CMakeFiles/compare_daft.dir/transform.cpp.o.provides: CMakeFiles/compare_daft.di
 
 CMakeFiles/compare_daft.dir/transform.cpp.o.provides.build: CMakeFiles/compare_daft.dir/transform.cpp.o
 
+CMakeFiles/compare_daft.dir/gabor_filter.cpp.o: CMakeFiles/compare_daft.dir/flags.make
+CMakeFiles/compare_daft.dir/gabor_filter.cpp.o: ../gabor_filter.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/frederik/pcl/gabor_recall/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/compare_daft.dir/gabor_filter.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/compare_daft.dir/gabor_filter.cpp.o -c /home/frederik/pcl/gabor_recall/gabor_filter.cpp
+
+CMakeFiles/compare_daft.dir/gabor_filter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/compare_daft.dir/gabor_filter.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/frederik/pcl/gabor_recall/gabor_filter.cpp > CMakeFiles/compare_daft.dir/gabor_filter.cpp.i
+
+CMakeFiles/compare_daft.dir/gabor_filter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/compare_daft.dir/gabor_filter.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/frederik/pcl/gabor_recall/gabor_filter.cpp -o CMakeFiles/compare_daft.dir/gabor_filter.cpp.s
+
+CMakeFiles/compare_daft.dir/gabor_filter.cpp.o.requires:
+.PHONY : CMakeFiles/compare_daft.dir/gabor_filter.cpp.o.requires
+
+CMakeFiles/compare_daft.dir/gabor_filter.cpp.o.provides: CMakeFiles/compare_daft.dir/gabor_filter.cpp.o.requires
+	$(MAKE) -f CMakeFiles/compare_daft.dir/build.make CMakeFiles/compare_daft.dir/gabor_filter.cpp.o.provides.build
+.PHONY : CMakeFiles/compare_daft.dir/gabor_filter.cpp.o.provides
+
+CMakeFiles/compare_daft.dir/gabor_filter.cpp.o.provides.build: CMakeFiles/compare_daft.dir/gabor_filter.cpp.o
+
+CMakeFiles/compare_daft.dir/gabor_jet.cpp.o: CMakeFiles/compare_daft.dir/flags.make
+CMakeFiles/compare_daft.dir/gabor_jet.cpp.o: ../gabor_jet.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/frederik/pcl/gabor_recall/build/CMakeFiles $(CMAKE_PROGRESS_4)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/compare_daft.dir/gabor_jet.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/compare_daft.dir/gabor_jet.cpp.o -c /home/frederik/pcl/gabor_recall/gabor_jet.cpp
+
+CMakeFiles/compare_daft.dir/gabor_jet.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/compare_daft.dir/gabor_jet.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/frederik/pcl/gabor_recall/gabor_jet.cpp > CMakeFiles/compare_daft.dir/gabor_jet.cpp.i
+
+CMakeFiles/compare_daft.dir/gabor_jet.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/compare_daft.dir/gabor_jet.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/frederik/pcl/gabor_recall/gabor_jet.cpp -o CMakeFiles/compare_daft.dir/gabor_jet.cpp.s
+
+CMakeFiles/compare_daft.dir/gabor_jet.cpp.o.requires:
+.PHONY : CMakeFiles/compare_daft.dir/gabor_jet.cpp.o.requires
+
+CMakeFiles/compare_daft.dir/gabor_jet.cpp.o.provides: CMakeFiles/compare_daft.dir/gabor_jet.cpp.o.requires
+	$(MAKE) -f CMakeFiles/compare_daft.dir/build.make CMakeFiles/compare_daft.dir/gabor_jet.cpp.o.provides.build
+.PHONY : CMakeFiles/compare_daft.dir/gabor_jet.cpp.o.provides
+
+CMakeFiles/compare_daft.dir/gabor_jet.cpp.o.provides.build: CMakeFiles/compare_daft.dir/gabor_jet.cpp.o
+
 # Object files for target compare_daft
 compare_daft_OBJECTS = \
 "CMakeFiles/compare_daft.dir/main.cpp.o" \
-"CMakeFiles/compare_daft.dir/transform.cpp.o"
+"CMakeFiles/compare_daft.dir/transform.cpp.o" \
+"CMakeFiles/compare_daft.dir/gabor_filter.cpp.o" \
+"CMakeFiles/compare_daft.dir/gabor_jet.cpp.o"
 
 # External object files for target compare_daft
 compare_daft_EXTERNAL_OBJECTS =
 
 compare_daft: CMakeFiles/compare_daft.dir/main.cpp.o
 compare_daft: CMakeFiles/compare_daft.dir/transform.cpp.o
+compare_daft: CMakeFiles/compare_daft.dir/gabor_filter.cpp.o
+compare_daft: CMakeFiles/compare_daft.dir/gabor_jet.cpp.o
 compare_daft: CMakeFiles/compare_daft.dir/build.make
-compare_daft: /usr/local/lib/libopencv_viz.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_videostab.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_videoio.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_video.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_ts.a
-compare_daft: /usr/local/lib/libopencv_superres.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_stitching.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_shape.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_photo.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_objdetect.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_ml.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_imgproc.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_imgcodecs.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_highgui.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_flann.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_features2d.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_core.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_calib3d.so.3.0.0
-compare_daft: /usr/lib/x86_64-linux-gnu/libboost_program_options.so
-compare_daft: /usr/lib/x86_64-linux-gnu/libboost_unit_test_framework.so
-compare_daft: /usr/lib/x86_64-linux-gnu/libboost_test_exec_monitor.a
-compare_daft: /usr/lib/x86_64-linux-gnu/libboost_system.so
-compare_daft: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
-compare_daft: /usr/lib/x86_64-linux-gnu/libboost_thread.so
-compare_daft: /usr/lib/x86_64-linux-gnu/libboost_date_time.so
-compare_daft: /usr/lib/x86_64-linux-gnu/libboost_iostreams.so
-compare_daft: /usr/lib/x86_64-linux-gnu/libboost_serialization.so
-compare_daft: /usr/lib/x86_64-linux-gnu/libboost_chrono.so
-compare_daft: /usr/lib/libpcl_common.so
-compare_daft: /usr/lib/x86_64-linux-gnu/libflann_cpp_s.a
-compare_daft: /usr/lib/libpcl_kdtree.so
-compare_daft: /usr/lib/libpcl_octree.so
-compare_daft: /usr/lib/libpcl_search.so
-compare_daft: /usr/lib/x86_64-linux-gnu/libqhull.so
-compare_daft: /usr/lib/libpcl_surface.so
-compare_daft: /usr/lib/libpcl_sample_consensus.so
-compare_daft: /usr/lib/libOpenNI.so
-compare_daft: /usr/lib/libOpenNI2.so
-compare_daft: /usr/lib/libvtkCommon.so.5.8.0
-compare_daft: /usr/lib/libvtkFiltering.so.5.8.0
-compare_daft: /usr/lib/libvtkImaging.so.5.8.0
-compare_daft: /usr/lib/libvtkGraphics.so.5.8.0
-compare_daft: /usr/lib/libvtkGenericFiltering.so.5.8.0
-compare_daft: /usr/lib/libvtkIO.so.5.8.0
-compare_daft: /usr/lib/libvtkRendering.so.5.8.0
-compare_daft: /usr/lib/libvtkVolumeRendering.so.5.8.0
-compare_daft: /usr/lib/libvtkHybrid.so.5.8.0
-compare_daft: /usr/lib/libvtkWidgets.so.5.8.0
-compare_daft: /usr/lib/libvtkParallel.so.5.8.0
-compare_daft: /usr/lib/libvtkInfovis.so.5.8.0
-compare_daft: /usr/lib/libvtkGeovis.so.5.8.0
-compare_daft: /usr/lib/libvtkViews.so.5.8.0
-compare_daft: /usr/lib/libvtkCharts.so.5.8.0
-compare_daft: /usr/lib/libpcl_io.so
-compare_daft: /usr/lib/libpcl_filters.so
-compare_daft: /usr/lib/libpcl_features.so
-compare_daft: /usr/lib/libpcl_keypoints.so
-compare_daft: /usr/lib/libpcl_registration.so
-compare_daft: /usr/lib/libpcl_segmentation.so
-compare_daft: /usr/lib/libpcl_recognition.so
-compare_daft: /usr/lib/libpcl_visualization.so
-compare_daft: /usr/lib/libpcl_people.so
-compare_daft: /usr/lib/libpcl_outofcore.so
-compare_daft: /usr/lib/libpcl_tracking.so
-compare_daft: /usr/lib/libpcl_apps.so
-compare_daft: /home/frederik/covis/build/lib/libcovis.so
 compare_daft: /usr/lib/x86_64-linux-gnu/libboost_system.so
 compare_daft: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
 compare_daft: /usr/lib/x86_64-linux-gnu/libboost_thread.so
@@ -271,6 +255,24 @@ compare_daft: /usr/local/lib/libopencv_flann.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_features2d.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_core.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_calib3d.so.3.0.0
+compare_daft: /usr/lib/libpcl_common.so
+compare_daft: /usr/lib/libpcl_kdtree.so
+compare_daft: /usr/lib/libpcl_octree.so
+compare_daft: /usr/lib/libpcl_search.so
+compare_daft: /usr/lib/libpcl_surface.so
+compare_daft: /usr/lib/libpcl_sample_consensus.so
+compare_daft: /usr/lib/libpcl_io.so
+compare_daft: /usr/lib/libpcl_filters.so
+compare_daft: /usr/lib/libpcl_features.so
+compare_daft: /usr/lib/libpcl_keypoints.so
+compare_daft: /usr/lib/libpcl_registration.so
+compare_daft: /usr/lib/libpcl_segmentation.so
+compare_daft: /usr/lib/libpcl_recognition.so
+compare_daft: /usr/lib/libpcl_visualization.so
+compare_daft: /usr/lib/libpcl_people.so
+compare_daft: /usr/lib/libpcl_outofcore.so
+compare_daft: /usr/lib/libpcl_tracking.so
+compare_daft: /usr/lib/libpcl_apps.so
 compare_daft: /usr/lib/libvtkGenericFiltering.so.5.8.0
 compare_daft: /usr/lib/libvtkGeovis.so.5.8.0
 compare_daft: /usr/lib/libvtkCharts.so.5.8.0
@@ -290,16 +292,15 @@ compare_daft: /usr/lib/libvtksys.so.5.8.0
 compare_daft: /usr/local/share/OpenCV/3rdparty/lib/libippicv.a
 compare_daft: /usr/local/lib/libopencv_xfeatures2d.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_shape.so.3.0.0
-compare_daft: /home/frederik/covis/build/lib/libcovis.so
+compare_daft: /usr/local/lib/libopencv_video.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_calib3d.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_features2d.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_ml.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_flann.so.3.0.0
-compare_daft: /usr/local/lib/libopencv_video.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_highgui.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_videoio.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_imgcodecs.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_imgproc.so.3.0.0
+compare_daft: /usr/local/lib/libopencv_flann.so.3.0.0
 compare_daft: /usr/local/lib/libopencv_core.so.3.0.0
 compare_daft: CMakeFiles/compare_daft.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable compare_daft"
@@ -311,6 +312,8 @@ CMakeFiles/compare_daft.dir/build: compare_daft
 
 CMakeFiles/compare_daft.dir/requires: CMakeFiles/compare_daft.dir/main.cpp.o.requires
 CMakeFiles/compare_daft.dir/requires: CMakeFiles/compare_daft.dir/transform.cpp.o.requires
+CMakeFiles/compare_daft.dir/requires: CMakeFiles/compare_daft.dir/gabor_filter.cpp.o.requires
+CMakeFiles/compare_daft.dir/requires: CMakeFiles/compare_daft.dir/gabor_jet.cpp.o.requires
 .PHONY : CMakeFiles/compare_daft.dir/requires
 
 CMakeFiles/compare_daft.dir/clean:

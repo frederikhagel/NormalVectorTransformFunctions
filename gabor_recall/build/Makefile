@@ -115,6 +115,54 @@ compare_daft/fast:
 	$(MAKE) -f CMakeFiles/compare_daft.dir/build.make CMakeFiles/compare_daft.dir/build
 .PHONY : compare_daft/fast
 
+gabor_filter.o: gabor_filter.cpp.o
+.PHONY : gabor_filter.o
+
+# target to build an object file
+gabor_filter.cpp.o:
+	$(MAKE) -f CMakeFiles/compare_daft.dir/build.make CMakeFiles/compare_daft.dir/gabor_filter.cpp.o
+.PHONY : gabor_filter.cpp.o
+
+gabor_filter.i: gabor_filter.cpp.i
+.PHONY : gabor_filter.i
+
+# target to preprocess a source file
+gabor_filter.cpp.i:
+	$(MAKE) -f CMakeFiles/compare_daft.dir/build.make CMakeFiles/compare_daft.dir/gabor_filter.cpp.i
+.PHONY : gabor_filter.cpp.i
+
+gabor_filter.s: gabor_filter.cpp.s
+.PHONY : gabor_filter.s
+
+# target to generate assembly for a file
+gabor_filter.cpp.s:
+	$(MAKE) -f CMakeFiles/compare_daft.dir/build.make CMakeFiles/compare_daft.dir/gabor_filter.cpp.s
+.PHONY : gabor_filter.cpp.s
+
+gabor_jet.o: gabor_jet.cpp.o
+.PHONY : gabor_jet.o
+
+# target to build an object file
+gabor_jet.cpp.o:
+	$(MAKE) -f CMakeFiles/compare_daft.dir/build.make CMakeFiles/compare_daft.dir/gabor_jet.cpp.o
+.PHONY : gabor_jet.cpp.o
+
+gabor_jet.i: gabor_jet.cpp.i
+.PHONY : gabor_jet.i
+
+# target to preprocess a source file
+gabor_jet.cpp.i:
+	$(MAKE) -f CMakeFiles/compare_daft.dir/build.make CMakeFiles/compare_daft.dir/gabor_jet.cpp.i
+.PHONY : gabor_jet.cpp.i
+
+gabor_jet.s: gabor_jet.cpp.s
+.PHONY : gabor_jet.s
+
+# target to generate assembly for a file
+gabor_jet.cpp.s:
+	$(MAKE) -f CMakeFiles/compare_daft.dir/build.make CMakeFiles/compare_daft.dir/gabor_jet.cpp.s
+.PHONY : gabor_jet.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -172,6 +220,12 @@ help:
 	@echo "... compare_daft"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... gabor_filter.o"
+	@echo "... gabor_filter.i"
+	@echo "... gabor_filter.s"
+	@echo "... gabor_jet.o"
+	@echo "... gabor_jet.i"
+	@echo "... gabor_jet.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

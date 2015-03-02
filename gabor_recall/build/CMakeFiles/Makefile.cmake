@@ -7,8 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/frederik/covis/build/lib/cmake/COVIS/COVISConfig.cmake"
-  "/home/frederik/covis/build/lib/cmake/COVIS/COVISConfigVersion.cmake"
   "../CMakeLists.txt"
   "CMakeFiles/3.0.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.0.2/CMakeCXXCompiler.cmake"

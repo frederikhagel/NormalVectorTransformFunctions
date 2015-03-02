@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/frederik/pcl/gabor_recall/gabor_filter.cpp" "/home/frederik/pcl/gabor_recall/build/CMakeFiles/compare_daft.dir/gabor_filter.cpp.o"
+  "/home/frederik/pcl/gabor_recall/gabor_jet.cpp" "/home/frederik/pcl/gabor_recall/build/CMakeFiles/compare_daft.dir/gabor_jet.cpp.o"
   "/home/frederik/pcl/gabor_recall/main.cpp" "/home/frederik/pcl/gabor_recall/build/CMakeFiles/compare_daft.dir/main.cpp.o"
   "/home/frederik/pcl/gabor_recall/transform.cpp" "/home/frederik/pcl/gabor_recall/build/CMakeFiles/compare_daft.dir/transform.cpp.o"
   )
@@ -25,12 +27,11 @@ set(CMAKE_TARGET_LINKED_INFO_FILES
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
-  "/usr/include/eigen3"
+  "/usr/include/vtk-5.8"
   "/usr/include/pcl-1.7"
+  "/usr/include/eigen3"
   "/usr/include/ni"
   "/usr/include/openni2"
-  "/usr/include/vtk-5.8"
-  "/home/frederik/covis/src"
   )
 set(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
 set(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
