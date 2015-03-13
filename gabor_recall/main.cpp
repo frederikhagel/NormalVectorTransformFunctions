@@ -129,15 +129,18 @@ int main (int argc, char** argv)
     int end_scale = 5;
     int rows = end_scale - start_scale;
 
-    GaborJet matcher(20, 0.20, sigma, 12, start_scale, end_scale, k);
+    GaborJet matcher(30, 0.20, sigma, 12, start_scale, end_scale, k);
 
     transform plane_transform;
 
     /** Step 1:    **/
 
+    std::ofstream outfile ("test_results.txt", std::ios::out);
 
     std::string file_name = "frosties_vpangle";
-//  file_name = "worldmap_vpangle45";
+    file_name = "worldmap_vpangle45";
+//    file_name ="granada_camrotate60";
+//    file_name ="worldmap_rotate";
 
 
     cv::Mat image = cv::imread("/home/frederik/pcl/create_pcl/" + file_name + "/img1.ppm");
@@ -156,228 +159,306 @@ int main (int argc, char** argv)
 
     cv::cvtColor(image, gray_image, 0 );
 
-    cv::Ptr<cv::Feature2D> f2d = cv::xfeatures2d::SIFT::create(500);
-//    cv::Ptr<cv::Feature2D> f2d = cv::ORB::create(300);
+    cv::Ptr<cv::Feature2D> f2d = cv::xfeatures2d::SIFT::create(1000);
+//    cv::Ptr<cv::Feature2D> f2d = cv::ORB::create(600);
     std::vector<cv::KeyPoint> keypoints_1;
     f2d->detect( gray_image, keypoints_1 , mask);
 
     /** Step 5:    **/
 
-    int image_number = 8;
+//    int image_number = 8;
 
 
-    std::string jaw = boost::lexical_cast<std::string>(image_number);
 
-    std::string image_name = "/home/frederik/pcl/create_pcl/" + file_name + "/img" + jaw + ".ppm";
-    cv::Mat image2 = cv::imread(image_name);
-    cv::Mat depth2 = cv::imread("/home/frederik/pcl/create_pcl/" + file_name + "/depth" + jaw + ".pgm", -1);
+    for(int image_number = 10; image_number < 11; image_number++){
+
+        std::string jaw = boost::lexical_cast<std::string>(image_number);
+
+        std::string image_name = "/home/frederik/pcl/create_pcl/" + file_name + "/img" + jaw + ".ppm";
+        cv::Mat image2 = cv::imread(image_name);
+        cv::Mat depth2 = cv::imread("/home/frederik/pcl/create_pcl/" + file_name + "/depth" + jaw + ".pgm", -1);
 
 
-    cv::waitKey(50);
+        cv::waitKey(50);
 
 
-    /** Step 5-a:    **/
+        /** Step 5-a:    **/
 
-    cv::Mat M(3,3, CV_32FC1);
+        cv::Mat M(3,3, CV_32FC1);
 
-    std::string file_line;
-    std::string homography_name = "/home/frederik/pcl/create_pcl/" + file_name + "/H1to" + jaw + "p";
+        std::string file_line;
+        std::string homography_name = "/home/frederik/pcl/create_pcl/" + file_name + "/H1to" + jaw + "p";
 
-    std::ifstream file (homography_name.c_str());
+        std::ifstream file (homography_name.c_str());
 
-    using namespace boost::algorithm;
+        using namespace boost::algorithm;
 
-    int j = 0;
-    if (file.is_open())
-    {
-      while ( std::getline (file, file_line) )
-      {
-
-          std::vector<std::string> tokens;
-
-          split(tokens, file_line, is_any_of("	")); // here it is
-
-          for(int i = 0; i < 3; i++)//(std::string s: tokens)
+        int j = 0;
+        if (file.is_open())
+        {
+          while ( std::getline (file, file_line) )
           {
-//                std::cout << '"' << atof( tokens[i].c_str() ) << '"' << '\n';
-                double trouble = atof( tokens[i].c_str() );
-                M.at<float>(j, i) = trouble;
+
+              std::vector<std::string> tokens;
+
+              split(tokens, file_line, is_any_of("	")); // here it is
+
+              for(int i = 0; i < 3; i++)//(std::string s: tokens)
+              {
+    //                std::cout << '"' << atof( tokens[i].c_str() ) << '"' << '\n';
+                    double trouble = atof( tokens[i].c_str() );
+                    M.at<float>(j, i) = trouble;
+
+              }
+
+              j++;
 
           }
 
-          j++;
-
-      }
-
-    }
-
-    std::vector<cv::Point2f> worldPoints;
-    std::vector<cv::Point2f> cameraPoints;
-
-    for (int i=0; i<keypoints_1.size(); i++){
-      cv::KeyPoint kp = keypoints_1[i];
-      worldPoints.push_back( kp.pt );
-    }
-
-    std::cout << M <<  std::endl;
-    cv::perspectiveTransform( worldPoints, cameraPoints, M);
-
-    /** Step 3:    **/
-
-    std::vector<std::vector< std::vector< float> > > gaborJets;
-    std::vector<int> xList;
-    std::vector<int> yList;
-
-    std::vector<int> xList2;
-    std::vector<int> yList2;
-
-    for (int i=0; i<keypoints_1.size(); i++){
-        cv::KeyPoint kp = keypoints_1[i];
-        int x = kp.pt.x;
-        int y = kp.pt.y;
-
-        cv::Point2f kp2 = cameraPoints[i];
-        int x2 = kp2.x;
-        int y2 = kp2.y;
-
-        float smallest_dist = 15;
-
-        for( int j = 0; j < xList.size(); j++ )
-        {
-            if( sqrt( (xList[j] - x) * (xList[j] - x) + (yList[j] - y) * (yList[j] - y)  ) < smallest_dist )
-                smallest_dist =  sqrt( (xList[j] - x) * (xList[j] - x) + (yList[j] - y) * (yList[j] - y)  );
-
         }
 
+        std::vector<cv::Point2f> worldPoints;
+        std::vector<cv::Point2f> cameraPoints;
 
-        std::cout << smallest_dist << std::endl;
-        std::cout << (smallest_dist < 10) << std::endl;
-
-        if( ( depth.at<int16_t>(x,y) * depth2.at<int16_t>(x2,y2) > 0  ) && ( smallest_dist > 10) )
-        {
-            xList.push_back( x );
-            yList.push_back( y );
-            xList2.push_back( x2 );
-            yList2.push_back( y2 );
-
-//            xList.push_back( image.cols );
-//            yList.push_back( image.rows );
-
-//            xList2.push_back( image2.cols );
-//            yList2.push_back( image2.rows );
-
-
-        }
-        else
-        {
-
-            std::cout << depth.at<int16_t>(x,y) << " " << x << " " << y << std::endl;
-            std::cout << depth2.at<int16_t>(x2,y2) << " " << x2 << " " << y2 << std::endl << std::endl;
-
-//            cv::circle(image, cv::Point( x, y )  , cvRound(10), cv::Scalar(255,255,0), -1, 8, 0);
-//            cv::imshow("transformed2", image);
-//            cv::waitKey(20);
-
-//            cv::circle( image2, cv::Point(  x2, y2 )  , cvRound(10), cv::Scalar(255,255,0), -1, 8, 0);
-//            cv::imshow("transformed", image2);
-//            cv::waitKey(0);
-
-
+        for (int i=0; i<keypoints_1.size(); i++){
+          cv::KeyPoint kp = keypoints_1[i];
+          worldPoints.push_back( kp.pt );
         }
 
-    }
-    std::vector<cv::Mat> transformed_images = plane_transform.transform_image(image, depth, xList, yList);
-    std::cout << "came through" << std::endl;
-//              cv::Mat onePixelSourceROI(transformed_image, cv::Rect( cv::Point(x,y), cv::Size(1, 1) ));
+        std::cout << M <<  std::endl;
+        cv::perspectiveTransform( worldPoints, cameraPoints, M);
 
-//
+        /** Step 3:    **/
 
+        std::vector<std::vector< std::vector< float> > > gaborJets;
+        std::vector<int> xList;
+        std::vector<int> yList;
 
-    /** Step 4:    **/
-
-    for (int i=0; i<transformed_images.size(); i++){
-
-        cv::Mat gaborResponse = matcher.filter(transformed_images[i], image.cols/2, image.rows/2  );
-//        std::cout << gaborResponse << std::endl;
-        gaborJets.push_back( getPixelJet( gaborResponse, rows ) );
-//        cv::circle(transformed_images[i], cv::Point( xList[i], yList[i] )  , cvRound(10), cv::Scalar(255,255,0), -1, 8, 0);
-//        cv::imshow("transformed", transformed_images[i]);
-//        cv::waitKey(20);
-
-     }
+        std::vector<int> xList2;
+        std::vector<int> yList2;
 
 
+//        xList.push_back( image.cols/2 - 80);
+//        yList.push_back( image.rows/2 );
+//        xList2.push_back( image.cols/2 - 80);
+//        yList2.push_back( image.rows/2 );
 
-    /** Step 5-b:    **/
 
-    std::vector<std::vector< std::vector< float> > > gaborJets2;
-    std::vector<cv::Mat> transformed_images2 = plane_transform.transform_image(image2, depth2, xList2, yList2);
-    std::cout << "came through" << std::endl;
-//              cv::Mat onePixelSourceROI(transformed_image, cv::Rect( cv::Point(x,y), cv::Size(1, 1) ));
+//        xList.push_back( image.cols/2 - 40);
+//        yList.push_back( image.rows/2 );
+//        xList2.push_back( image.cols/2 - 40);
+//        yList2.push_back( image.rows/2 );
 
-//
-    for (int i=0; i<transformed_images2.size(); i++){
 
-        cv::Mat gaborResponse = matcher.filter(transformed_images2[i], image.cols/2, image.rows/2  );
-//        std::cout << gaborResponse << std::endl;
-        gaborJets2.push_back( getPixelJet( gaborResponse, rows ) );
+//        xList.push_back( image.cols/2 );
+//        yList.push_back( image.rows/2 );
+//        xList2.push_back( image.cols/2 );
+//        yList2.push_back( image.rows/2 );
 
-//        std::cout << xList[i] << " " << yList[i] << std::endl;
-//        cv::circle(transformed_images2[i], cv::Point( image.cols/2, image.rows/2 )  , cvRound(10), cv::Scalar(255,255,0), -1, 8, 0);
-//        cv::imshow("transformed2", transformed_images2[i]);
-//        cv::waitKey(20);
+//        std::cout  << image.cols/2 << " " << image.rows/2 << " " << depth.at<int16_t>( image.rows/2, image.cols/2)  <<  std::endl;
+//        std::cout  << image.cols/2 << " " << image.rows/2 <<  " " <<  depth2.at<int16_t>(image.cols/2, image.rows/2)  << std::endl << std::endl;
 
-//        cv::circle(transformed_images[i], cv::Point(  image.cols/2, image.rows/2 )  , cvRound(10), cv::Scalar(255,255,0), -1, 8, 0);
-//        cv::imshow("transformed", transformed_images[i]);
-//        cv::waitKey(0);
-
-    }
+//        xList.push_back( image.cols/2 + 40);
+//        yList.push_back( image.rows/2 );
+//        xList2.push_back( image.cols/2 + 40 );
+//        yList2.push_back( image.rows/2 );
 
 
 
-    /** Step 5-c:    **/
+//        xList.push_back( image.cols/2 + 80);
+//        yList.push_back( image.rows/2 );
+//        xList2.push_back( image.cols/2 + 80);
+//        yList2.push_back( image.rows/2 );
 
-    std::ofstream outfile ("test_results.txt", std::ios::out);
 
-    int correct = 0;
 
-    for( int index_1 = 0; index_1 < gaborJets.size(); index_1++)
-    {
-        float bestMatch = 0;
-        float bestIndex = 0;
 
-        for(int i=0; (unsigned)i < gaborJets[index_1].size(); i++){
-            for(int j=0; (unsigned)j < gaborJets[index_1][i].size(); j++)
-                std::cout << gaborJets[index_1][i][j] << " ";
-            std::cout << std::endl;
-        }
-        std::cout << std::endl;
 
-        for( int index_2 = 0; index_2 < gaborJets2.size(); index_2++)
-        {
 
-            float match_found = compareSinglePixelShift( gaborJets[index_1], gaborJets2[index_2] );
-            if( match_found > bestMatch)
+//        xList.push_back( image.cols/2 );
+//        yList.push_back( image.rows/2 );
+//        xList2.push_back( image.cols/2 );
+//        yList2.push_back( image.rows/2 );
+
+//        std::cout  << image.cols/2 << " " << image.rows/2 << " " << depth.at<int16_t>( image.rows/2, image.cols/2)  <<  std::endl;
+//        std::cout  << image.cols/2 << " " << image.rows/2 <<  " " <<  depth2.at<int16_t>(image.cols/2, image.rows/2)  << std::endl << std::endl;
+
+
+//        xList.push_back( image.cols/2  - 20);
+//        yList.push_back( image.rows/2 );
+//        xList2.push_back( image.cols/2 - 20);
+//        yList2.push_back( image.rows/2 );
+
+//        std::cout  << image.cols/2  + 20 << " " << image.rows/2 << " " << depth.at<int16_t>( image.rows/2, image.cols/2  - 20)  <<  std::endl;
+//        std::cout  << image.cols/2 + 20 << " " << image.rows/2 <<  " " <<  depth2.at<int16_t>(image.cols/2, image.rows/2  - 20)  << std::endl << std::endl;
+
+//        xList.push_back( image.cols/2 );
+//        yList.push_back( image.rows/2 + 10);
+//        xList2.push_back( image.cols/2 );
+//        yList2.push_back( image.rows/2 + 10);
+
+//        std::cout  << image.cols/2 << " " << image.rows/2 + 10 << " " << depth.at<int16_t>( image.rows/2 + 10, image.cols/2 )  <<  std::endl;
+//        std::cout  << image.cols/2 << " " << image.rows/2 <<  " " <<  depth2.at<int16_t>(image.cols/2, image.rows/2  + 10)  << std::endl << std::endl;
+
+
+//        xList.push_back( 0 );
+//        yList.push_back( 0 );
+//        xList2.push_back( 0 );
+//        yList2.push_back( 0 );
+
+//        std::cout  << 0 << " " << 0 << " " << depth.at<int16_t>( 0, 0 )  <<  std::endl;
+//        std::cout  << 0 << " " << 0 <<  " " <<  depth2.at<int16_t>(0, 0)  << std::endl << std::endl;
+
+
+
+        for (int i=0; i<keypoints_1.size(); i++){
+            cv::KeyPoint kp = keypoints_1[i];
+            int x = kp.pt.x;
+            int y = kp.pt.y;
+
+            cv::Point2f kp2 = cameraPoints[i];
+            int x2 = kp2.x;
+            int y2 = kp2.y;
+
+            float smallest_dist = 15;
+
+            for( int j = 0; j < xList.size(); j++ )
             {
-                bestMatch = match_found;
-                bestIndex = index_2;
+                if( sqrt( (xList[j] - x) * (xList[j] - x) + (yList[j] - y) * (yList[j] - y)  ) < smallest_dist )
+                    smallest_dist =  sqrt( (xList[j] - x) * (xList[j] - x) + (yList[j] - y) * (yList[j] - y)  );
 
             }
 
 
+//            std::cout << smallest_dist << std::endl;
+//            std::cout << (smallest_dist < 10) << std::endl;
+
+
+
+            if( ( depth.at<int16_t>(y,x) * depth2.at<int16_t>(y2,x2) > 0  ) && ( smallest_dist > 10) )
+            {
+
+//                std::cout  << x << " " << y << " " << depth.at<int16_t>(y,x)  <<  std::endl;
+//                std::cout  << x2 << " " << y2 <<  " " <<  depth2.at<int16_t>(y2, x2)  << std::endl << std::endl;
+
+//                std::cout  << x << " " << y << " " << depth.at<int16_t>(x,y)  <<  std::endl;
+//                std::cout  << x2 << " " << y2 <<  " " <<  depth2.at<int16_t>(x2, y2)  << std::endl << std::endl;
+
+                xList.push_back( x );
+                yList.push_back( y );
+                xList2.push_back( x2 );
+                yList2.push_back( y2 );
+
+
+            }
+            else
+            {
+
+
+//                cv::circle(image, cv::Point( x, y )  , cvRound(10), cv::Scalar(255,255,0), -1, 8, 0);
+//                cv::imshow("transformed2", image);
+//                cv::waitKey(20);
+
+//                cv::circle( image2, cv::Point(  x2, y2 )  , cvRound(10), cv::Scalar(255,255,0), -1, 8, 0);
+//                cv::imshow("transformed", image2);
+//                cv::waitKey(0);
+
+
+            }
+
+        }
+        std::vector<cv::Mat> transformed_images = plane_transform.transform_image(image, depth, xList, yList);
+        std::cout << "came through" << std::endl;
+    //              cv::Mat onePixelSourceROI(transformed_image, cv::Rect( cv::Point(x,y), cv::Size(1, 1) ));
+
+    //
+
+
+        /** Step 4:    **/
+
+        for (int i=0; i<transformed_images.size(); i++){
+
+            cv::Mat gaborResponse = matcher.filter(transformed_images[i], image.cols/2, image.rows/2  );
+    //        std::cout << gaborResponse << std::endl;
+            gaborJets.push_back( getPixelJet( gaborResponse, rows ) );
+    //        cv::circle(transformed_images[i], cv::Point( xList[i], yList[i] )  , cvRound(10), cv::Scalar(255,255,0), -1, 8, 0);
+    //        cv::imshow("transformed", transformed_images[i]);
+    //        cv::waitKey(20);
+
+         }
+
+
+
+        /** Step 5-b:    **/
+
+        std::vector<std::vector< std::vector< float> > > gaborJets2;
+        std::vector<cv::Mat> transformed_images2 = plane_transform.transform_image(image2, depth2, xList2, yList2);
+        std::cout << "came through" << std::endl;
+    //              cv::Mat onePixelSourceROI(transformed_image, cv::Rect( cv::Point(x,y), cv::Size(1, 1) ));
+
+    //
+        for (int i=0; i<transformed_images2.size(); i++){
+
+            cv::Mat gaborResponse = matcher.filter(transformed_images2[i], image.cols/2, image.rows/2  );
+    //        std::cout << gaborResponse << std::endl;
+            gaborJets2.push_back( getPixelJet( gaborResponse, rows ) );
+
+    //        std::cout << xList[i] << " " << yList[i] << std::endl;
+            cv::circle(transformed_images2[i], cv::Point( image.cols/2, image.rows/2 )  , cvRound(10), cv::Scalar(255,255,0), -1, 8, 0);
+            cv::imshow("transformed2", transformed_images2[i]);
+            cv::waitKey(20);
+
+            cv::circle(transformed_images[i], cv::Point(  image.cols/2, image.rows/2 )  , cvRound(10), cv::Scalar(255,255,0), -1, 8, 0);
+            cv::imshow("transformed", transformed_images[i]);
+            cv::waitKey(20);
+
         }
 
-        if( bestIndex == index_1 )
-        {   correct++;
-            outfile << 1 << " " << bestMatch << std::endl;
-            /** add the result positive **/   
+
+
+        /** Step 5-c:    **/
+
+        int correct = 0;
+
+        for( int index_1 = 0; index_1 < gaborJets.size(); index_1++)
+        {
+            float bestMatch = 0;
+            float bestIndex = 0;
+
+//            for(int i=0; (unsigned)i < gaborJets[index_1].size(); i++){
+//                for(int j=0; (unsigned)j < gaborJets[index_1][i].size(); j++)
+//                    std::cout << gaborJets[index_1][i][j] << " ";
+//                std::cout << std::endl;
+//            }
+//            std::cout << std::endl;
+
+            for( int index_2 = 0; index_2 < gaborJets2.size(); index_2++)
+            {
+
+                float match_found = compareSinglePixelShift( gaborJets[index_1], gaborJets2[index_2] );
+                if( match_found > bestMatch)
+                {
+                    bestMatch = match_found;
+                    bestIndex = index_2;
+
+                }
+
+
+            }
+
+            if( bestIndex == index_1 )
+            {   correct++;
+                outfile << 1 << " " << bestMatch << std::endl;
+                /** add the result positive **/
+            }
+            else
+                outfile << 0 << " " << bestMatch << std::endl;
+                /** add the result negative **/
         }
-        else
-            outfile << 0 << " " << bestMatch << std::endl;
-            /** add the result negative **/
+
+        std::cout << "number of corect matches " << correct << " in all " << gaborJets.size() << std::endl;
+
     }
-
-    std::cout << "number of corect matches " << correct << " all in all " << gaborJets.size() << std::endl;
-    return 0;
+        return 0;
 
 }

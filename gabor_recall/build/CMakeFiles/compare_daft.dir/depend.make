@@ -266,8 +266,10 @@ CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/features/i
 CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/features/normal_3d.h
 CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/features/pfh_tools.h
 CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/filters/boost.h
+CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/filters/extract_indices.h
 CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/filters/filter.h
 CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/filters/filter_indices.h
+CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/filters/impl/extract_indices.hpp
 CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/filters/impl/filter.hpp
 CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/filters/impl/filter_indices.hpp
 CMakeFiles/compare_daft.dir/transform.cpp.o: /usr/include/pcl-1.7/pcl/filters/impl/normal_refinement.hpp

@@ -9,3 +9,9 @@ create_pcl/granada_camrotate60
 create_pcl/worldmap_rotate
 create_pcl/worldmap_scale
 create_pcl/worldmap_vpangle45
+gabor_recall/build
+gabor_for_report/build
+gabor_for_recall/build
+gabor_recall_no_transform/build
+sift_recall/build
+pcl_viewer_normal/CMakeFiles

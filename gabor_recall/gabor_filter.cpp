@@ -49,10 +49,10 @@ GaborFilter::GaborFilter(int ksize, float f0, float sigma, float theta, float sc
     //create real and imaginary kernel
     _realKernel = cv::getGaborKernel(cv::Size(ksize, ksize), ksigma, theta, lambda, 1,  0);
     cv::resize(_realKernel, _realKernel, cv::Size( _realKernel.cols * pow(_scaleSize,_scaling), _realKernel.rows * pow(_scaleSize,_scaling) ) );
-    _realKernel = _realKernel/ ( pow(4 * _scaleSize,_scaling) );
+    _realKernel = _realKernel/ ( pow(2 * _scaleSize,_scaling) );
     _imaginaryKernel = cv::getGaborKernel(cv::Size(ksize, ksize), ksigma, theta, lambda, 1,  M_PI_2);
     cv::resize(_imaginaryKernel, _imaginaryKernel, cv::Size( _imaginaryKernel.cols * pow(_scaleSize,_scaling) + 1, _imaginaryKernel.rows * pow(_scaleSize,_scaling)  + 1) );
-    _imaginaryKernel = _imaginaryKernel/ ( pow(4 * _scaleSize,_scaling) );
+    _imaginaryKernel = _imaginaryKernel/ ( pow(2 * _scaleSize,_scaling) );
 }
 
 GaborFilter::~GaborFilter() {}

@@ -35,6 +35,8 @@ main (int argc, char** argv)
 
     std::cout << image_color.cols << " " << image_color.rows << std::endl;
 
+        int focal_lenght = 1050;
+
     for (int h=0; h<image_color.cols; h++) {
         for (int w=0; w<image_color.rows; w++) {
 
@@ -43,17 +45,20 @@ main (int argc, char** argv)
 //            image_color.at<cv::Vec3b>(w,h)[0], image_color.at<cv::Vec3b>(w,h)[1], image_color.at<cv::Vec3b>(w,h)[2]    );
 
 
-            int hc = image_color.cols -h - 1;
+//            int hc = image_color.cols -h - 1;
 
-            cloud.at(hc,w).b = image_color.at<cv::Vec3b>(w,h)[0];
-            cloud.at(hc,w).g = image_color.at<cv::Vec3b>(w,h)[1];
-            cloud.at(hc,w).r = image_color.at<cv::Vec3b>(w,h)[2];
-            cloud.at(hc,w).a = 1;
+            cloud.at(h,w).b = image_color.at<cv::Vec3b>(w,h)[0];
+            cloud.at(h,w).g = image_color.at<cv::Vec3b>(w,h)[1];
+            cloud.at(h,w).r = image_color.at<cv::Vec3b>(w,h)[2];
+            cloud.at(h,w).a = 1;
 
-            cloud.at(hc,w).x = float( (h - image_color.cols/2)/1000.0 );
-            cloud.at(hc,w).y = float( (-w + image_color.rows/2)/1000.0 );
-            cloud.at(hc,w).z = - float(  depth_color.at<int16_t>(w,h) ) /1000;
-//            std::cout << depth_color.at<int16_t>(w, h) << std::endl;
+            cloud.at(h,w).z = - float(  depth_color.at<int16_t>(w,h) ) /1000;
+
+            float z_focal =  - 1000 * cloud.at(h,w).z / focal_lenght;
+
+            cloud.at(h,w).x = float( (h - image_color.cols/2)/1000.0 ) * z_focal;
+            cloud.at(h,w).y = float( (-w + image_color.rows/2)/1000.0 ) * z_focal;
+            //            std::cout << depth_color.at<int16_t>(w, h) << std::endl;
 
         }
     }

@@ -123,10 +123,6 @@ main (int argc, char** argv)
     float curvature;
 //    std::vector<int> indices(colIndex,rowIndex);
 
-
-
-
-
     //std::vector<std::vector<int> > k_indices;
 
     float nx, ny, nz;
@@ -140,7 +136,7 @@ main (int argc, char** argv)
     pcl::Normal normal;
 //    for(int i = 0; i < 640; i++){
 //    boost::shared_ptr<std::vector<int> >indices (new std::vector<int> (1,colIndex * input_cloud.rows + rowIndex));
-    boost::shared_ptr<std::vector<int> >indices (new std::vector<int> (1,rowIndex * input_cloud.cols + colIndex));
+    boost::shared_ptr<std::vector<int> >indices (new std::vector<int> (1,rowIndex * input_cloud.cols + colIndex + 10));
     //    boost::shared_ptr<std::vector<int> >indices (new std::vector<int> (1,rowIndex + 480 * colIndex));
 
     ne.setIndices(indices);
@@ -204,12 +200,12 @@ main (int argc, char** argv)
 
   float x;
   float y;
-  float distance = 1;
+  float distance = 0.4;
   std::vector<cv::Point2f> vector_end;
   for(int i = 0; i < 4; i++)
     {
-        x = (580)* P_0[i].x/(P_0[i].z + distance) + input_cloud.cols/2;
-        y =  (-580) * P_0[i].y/(P_0[i].z + distance) + input_cloud.rows/2;
+        x = (-580)* P_0[i].x/(P_0[i].z + distance) + input_cloud.cols/2 + 10;
+        y =  (580) * P_0[i].y/(P_0[i].z + distance) + input_cloud.rows/2;
         vector_end.push_back (cv::Point2f(x,y));
     }
 
@@ -232,10 +228,12 @@ main (int argc, char** argv)
 
 
   std::vector<cv::Point2f> vector_start;
+  distance = 0.5;
+
   for(int i = 0; i < 4; i++)
     {
-      x = (580)* P_T[i].x/(P_T[i].z + distance) + input_cloud.cols/2;
-      y =  (-580) * P_T[i].y/(P_T[i].z + distance) + input_cloud.rows/2;
+      x = (-580)* P_T[i].x/(P_T[i].z + distance) + input_cloud.cols/2;
+      y =  (580) * P_T[i].y/(P_T[i].z + distance) + input_cloud.rows/2;
       std::cout << x << " , " << y << std::endl;
 
       vector_start.push_back (cv::Point2f(x,y));

@@ -1,0 +1,100 @@
+// Copyright (c) 2013, University of Southern Denmark
+// All rights reserved.
+//
+// Redistribution and use in source and binary forms, with or without
+// modification, are permitted provided that the following conditions are met:
+//
+// 1. Redistributions of source code must retain the above copyright notice,
+//    this list of conditions and the following disclaimer.
+// 2. Redistributions in binary form must reproduce the above copyright notice,
+//    this list of conditions and the following disclaimer in the documentation
+//    and/or other materials provided with the distribution.
+// 3. Neither the name of the University of Southern Denmark nor the names of
+//    its contributors may be used to endorse or promote products derived from
+//    this software without specific prior written permission.
+//
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+// AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+// IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+// ARE DISCLAIMED. IN NO EVENT SHALL THE UNIVERSITY OF SOUTHERN DENMARK BE
+// LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+// CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+// SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+// INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+// CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+// ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+// POSSIBILITY OF SUCH DAMAGE.
+
+#ifndef COVIS_FILTER_GABOR_JET_H
+#define COVIS_FILTER_GABOR_JET_H
+
+// Own
+
+#include "gabor_filter.h"
+
+#include <opencv2/opencv.hpp>
+
+        /**
+         * @class GaborJet
+         * @ingroup filter
+         * @brief Gabor jet
+         *
+         * @todo Document this class
+         * 
+         * @sa GaborFilter
+         * @author Frederik Hagelskjær
+         * @example example/gabor_jet/gabor_jet.cpp
+         */
+        class GaborJet  {
+            public:
+                /**
+                 * Initialize Gabor filters
+                 * @param ksize size of kernel in pixels
+                 * @param f0 normalized frequency of the base filter
+                 * @param sigma sigma of the Gauss distribution
+                 * @param ntheta number of rotations in the interval @f$[0,\pi]@f$
+                 * @param startscales scaling of the largest jet
+                 * @param endscales scaling of the smallest jet, number of scales become = endscales - startscales
+                 * @param k the scale size, the difference between each scaling
+                 */
+                GaborJet(int ksize, float f0, float sigma, int ntheta, int startscales, int endscales, float k);
+
+                /// Destructor
+                virtual ~GaborJet();
+
+                /**
+                 * Apply the gabor filter to BGR or grayscale image
+                 *
+                 * @note if @b image has 3 channels, it is automatically converted to grayscale
+                 *
+                 * @param image input RGB or grayscale image, can have either integral or floating point elements
+                 * @return a 1-channel floating point image representing magnitude of signal
+                 */
+                cv::Mat filter(const cv::Mat& image, int x, int y);
+
+                /**
+                 * Compare two jets at one pixel
+                 * @param jetSpace1 first jet
+                 * @param jetSpace2 second jet
+                 * @return the normed dot product of the pixels
+                 */
+                float compareSinglePixel(std::vector< std::vector<float> > pixelJet1, std::vector< std::vector<float> > pixelJet2);
+
+                /**
+                 * Get the real part of the jet space
+                 * @return a 1-channel floating point image of the real part of the jet space
+                 */
+                cv::Mat getRealJet();
+
+                /**
+                 * Get the imaginary part of the jet space
+                 * @return a 1-channel floating point image of the imaginary part of the jet space
+                 */
+                cv::Mat getImaginaryJet();
+
+            private:
+                /// All individual filters stored as a jet space
+                std::vector<std::vector<GaborFilter> > _jetSpace;
+        };
+
+#endif
